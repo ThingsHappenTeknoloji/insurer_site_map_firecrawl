@@ -36,7 +36,7 @@ async def get_insurers_and_pages_to_scrape(conn):
     try:
         with conn.cursor() as cur:
             # Get all insurer names first
-            cur.execute("SELECT DISTINCT insurer_name FROM th.insurer_pages ORDER BY insurer_name;")
+            cur.execute("SELECT DISTINCT insurer_name FROM th.insurer_pages WHERE insurer_name='HDI Katılım Sigorta A.Ş.' ORDER BY insurer_name;")
             insurers = [row[0] for row in cur.fetchall()]
             logging.info(f"Found {len(insurers)} distinct insurers to process.")
 
@@ -50,8 +50,7 @@ async def get_insurers_and_pages_to_scrape(conn):
                     LEFT JOIN th.insurer_page_content ipc ON ip.page_url = ipc.page_url
                     WHERE ip.insurer_name = %s 
                       AND ipc.id IS NULL  -- Only select pages not yet scraped
-                    ORDER BY ip.id -- or some other consistent ordering to get the same first 5
-                    LIMIT 5;
+                    ORDER BY ip.id; -- or some other consistent ordering to get the same first 5
                 """, (insurer_name,))
                 pages = [row[0] for row in cur.fetchall()]
                 if pages:
@@ -177,9 +176,13 @@ async def main():
                 else:
                     logging.warning(f"Skipping invalid URL for scraping: {page_url} (Insurer: {insurer_name})")
             
+            
             if tasks:
-                await asyncio.gather(*tasks) # This will run scrapes for one insurer concurrently
-                conn.commit() 
+                chunks = [tasks[i:i + 2] for i in range(0, len(tasks), 2)]
+                for chunk in chunks:    
+                    await asyncio.gather(*chunk) # This will run scrapes for one insurer concurrently
+                    conn.commit()
+                    await asyncio.sleep(1)
                 logging.info(f"Finished scraping and committed for {insurer_name}.")
             else:
                 logging.info(f"No valid pages to scrape for {insurer_name} after URL validation.")

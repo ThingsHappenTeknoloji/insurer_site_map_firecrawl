@@ -52,7 +52,7 @@ def get_insurers(conn):
     try:
         with conn.cursor() as cur:
             # Assuming your table is indeed th.insurer and columns are name, root_url
-            cur.execute("SELECT name, root_url FROM th.insurer;")
+            cur.execute("SELECT name, root_url FROM th.insurer where id in (92,23,85,1,17,86,26,8,43);")
             insurers = cur.fetchall()
             logging.info(f"Fetched {len(insurers)} insurers from 'th.insurer'.")
     except psycopg2.Error as e:
