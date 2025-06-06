@@ -1,0 +1,3705 @@
+{
+  "categories": [
+    {
+      "name": "Corporate Information",
+      "frequency": 13,
+      "category_name": "Corporate Information",
+      "description": "Pages related to the company's policies and commitments, including sustainability efforts and corporate social responsibility.",
+      "example_topics": [
+        "Sustainability",
+        "Eureko Quality Policy",
+        "Risk Assessment",
+        "Corporate Social Responsibility"
+      ],
+      "target_audience": [
+        "Environmental advocates",
+        "Corporate partners",
+        "General public interested in company ethics"
+      ]
+    },
+    {
+      "name": "Insurance Products",
+      "frequency": 11,
+      "category_name": "Insurance Products",
+      "description": "Content related to the insurance products offered by the company, including details about different types of insurance for individuals and businesses.",
+      "example_topics": [
+        "Individual Insurance Products",
+        "Business Insurance Products",
+        "Innovative Insurance Solutions"
+      ],
+      "target_audience": [
+        "Individual Policyholders",
+        "Business Owners",
+        "Insurance Agents"
+      ]
+    },
+    {
+      "name": "Customer Support",
+      "frequency": 10,
+      "category_name": "Customer Support",
+      "description": "Includes pages that offer assistance and support options for customers, such as filing claims or requesting callbacks.",
+      "example_topics": [
+        "Claim Reporting",
+        "Customer Inquiry",
+        "Support Contact Information"
+      ],
+      "target_audience": [
+        "Existing Customers"
+      ]
+    },
+    {
+      "name": "Legal and Privacy Information",
+      "frequency": 9,
+      "category_name": "Legal and Privacy Information",
+      "description": "Pages dedicated to legal disclaimers, privacy policies, and regulations related to the use of the website and insurance services.",
+      "example_topics": [
+        "Cookie Policy",
+        "Privacy Agreement",
+        "Personal Data Protection",
+        "Internet and Telephone Services Agreement"
+      ],
+      "target_audience": [
+        "Legal professionals",
+        "Customers concerned about privacy",
+        "Compliance officers"
+      ]
+    },
+    {
+      "name": "Health Insurance",
+      "frequency": 8,
+      "category_name": "Health Insurance",
+      "description": "This category encompasses information on health insurance plans, modular health insurance products, and specialized health coverage options.",
+      "example_topics": [
+        "Private Health Insurance",
+        "Modular Health Plans",
+        "Medical Coverage"
+      ],
+      "target_audience": [
+        "Individuals seeking health coverage",
+        "Families",
+        "Healthcare Consumers"
+      ]
+    },
+    {
+      "name": "Customer Service",
+      "frequency": 8,
+      "category_name": "Customer Service",
+      "description": "Resources and information related to customer support, including damage reporting, service networks, and contact details.",
+      "example_topics": [
+        "Claims Assistance",
+        "Partnered Service Centers",
+        "Contact Us",
+        "Chat Support"
+      ],
+      "target_audience": [
+        "Existing customers",
+        "Potential customers"
+      ]
+    },
+    {
+      "name": "Frequently Asked Questions",
+      "frequency": 5,
+      "category_name": "Frequently Asked Questions",
+      "description": "Sections addressing common customer queries regarding insurance policies and company operations.",
+      "example_topics": [
+        "Policy Details",
+        "Claim Processes",
+        "Coverage Information"
+      ],
+      "target_audience": [
+        "Prospective Customers",
+        "Policyholders",
+        "Insurance Agents"
+      ]
+    },
+    {
+      "name": "Contact Information",
+      "frequency": 4,
+      "category_name": "Contact Information",
+      "description": "Pages that provide contact details for reaching the insurance company, including addresses, phone numbers, and email information.",
+      "example_topics": [
+        "General Manager Address",
+        "Regional Office Address",
+        "Phone Numbers",
+        "Email Contact"
+      ],
+      "target_audience": [
+        "Existing customers",
+        "Potential customers",
+        "Business partners",
+        "General public"
+      ]
+    },
+    {
+      "name": "Retirement Plans",
+      "frequency": 4,
+      "category_name": "Retirement Plans",
+      "description": "Information and details about various retirement plans offered by AXA, such as automatic retirement and individual retirement systems.",
+      "example_topics": [
+        "Automatic Retirement",
+        "Individual Retirement System",
+        "Support Retirement Plan",
+        "Full Retirement Plan",
+        "Extra Retirement Plan"
+      ],
+      "target_audience": [
+        "Individuals planning for retirement",
+        "Financial advisors",
+        "AXA customers"
+      ]
+    },
+    {
+      "name": "Legal Information",
+      "frequency": 4,
+      "category_name": "Legal Information",
+      "description": "Pages containing legal documents, regulations, and compliance information related to insurance products and companies.",
+      "example_topics": [
+        "Insurance regulations",
+        "Legal compliance in insurance",
+        "Insurance contracts",
+        "Regulatory documents"
+      ],
+      "target_audience": [
+        "Insurance professionals",
+        "Legal advisors",
+        "Policyholders",
+        "Companies"
+      ]
+    },
+    {
+      "name": "Investor Relations",
+      "frequency": 4,
+      "category_name": "Investor Relations",
+      "description": "This category encompasses pages focused on providing financial and performance reports to investors.",
+      "example_topics": [
+        "Annual Reports",
+        "Investor Performance",
+        "Financial Statements"
+      ],
+      "target_audience": [
+        "Investors",
+        "Financial Analysts"
+      ]
+    },
+    {
+      "name": "Accessibility",
+      "frequency": 4,
+      "category_name": "Accessibility",
+      "description": "Content related to making web pages accessible for individuals with disabilities, including features and optimizations for various accessibility profiles.",
+      "example_topics": [
+        "Accessibility Profiles",
+        "Screen Reader Optimization",
+        "Color Blindness Adjustments"
+      ],
+      "target_audience": [
+        "Individuals with Disabilities",
+        "Web Developers",
+        "UI/UX Designers"
+      ]
+    },
+    {
+      "name": "Privacy and Cookies",
+      "frequency": 4,
+      "category_name": "Privacy and Cookies",
+      "description": "Content related to the use of cookies on the website, privacy policies, and user consent requirements.",
+      "example_topics": [
+        "Cookie Policy",
+        "Privacy Notice",
+        "User Consent"
+      ],
+      "target_audience": [
+        "General Website Users",
+        "Potential Customers",
+        "Website Administrators"
+      ]
+    },
+    {
+      "name": "Insurance Software Solutions",
+      "frequency": 4,
+      "category_name": "Insurance Software Solutions",
+      "description": "This category includes pages related to software solutions that facilitate insurance processes, such as claim management, data analysis, and system integration.",
+      "example_topics": [
+        "SUT Sim\u00fclat\u00f6r",
+        "Bilgi Bankası Y\u00f6netim Sistemi (BBYS)",
+        "Claimer ECP & Mediclaim",
+        "Octopus"
+      ],
+      "target_audience": [
+        "insurance companies",
+        "healthcare providers",
+        "IT professionals in insurance"
+      ]
+    },
+    {
+      "name": "Social Responsibility",
+      "frequency": 3,
+      "category_name": "Social Responsibility",
+      "description": "Details the company's social responsibility initiatives and contributions to community welfare and safety.",
+      "example_topics": [
+        "T\u00fcrkiye'nin Dijital G\u00fcvenliğine G\u00fc\u00e7l\u00fc Katkı",
+        "Deprem Risk Transfer Projesi",
+        "Hayata Devam T\u00fcrkiye",
+        "Aksigorta Yardım ve Deprem Merkezi",
+        "Sanat Projesi"
+      ],
+      "target_audience": [
+        "community stakeholders",
+        "general public",
+        "NGOs",
+        "government agencies"
+      ]
+    },
+    {
+      "name": "Home Insurance",
+      "frequency": 3,
+      "category_name": "Home Insurance",
+      "description": "Information regarding insurance products that protect homes and their contents, including specialized insurance options like earthquake insurance.",
+      "example_topics": [
+        "Home and Content Insurance",
+        "Compulsory Earthquake Insurance (DASK)"
+      ],
+      "target_audience": [
+        "Homeowners",
+        "Renters",
+        "Real Estate Investors"
+      ]
+    },
+    {
+      "name": "Travel Insurance",
+      "frequency": 3,
+      "category_name": "Travel Insurance",
+      "description": "Content related to insurance products for travelers, including health coverage while traveling and compensation for travel-related incidents.",
+      "example_topics": [
+        "Travel Health Insurance",
+        "Trip Cancellation Coverage",
+        "Emergency Assistance"
+      ],
+      "target_audience": [
+        "Tourists",
+        "Business Travelers",
+        "Travel Agencies"
+      ]
+    },
+    {
+      "name": "Automobile Insurance",
+      "frequency": 3,
+      "category_name": "Automobile Insurance",
+      "description": "Content related to automobile insurance products and services, including Kasko (comprehensive car insurance) and accident report applications.",
+      "example_topics": [
+        "Kasko",
+        "Accident Report Application",
+        "Car Insurance Claims"
+      ],
+      "target_audience": [
+        "Vehicle owners",
+        "Individuals seeking car insurance"
+      ]
+    },
+    {
+      "name": "Agricultural Insurance",
+      "frequency": 3,
+      "category_name": "Agricultural Insurance",
+      "description": "Content related to insurance products designed for agricultural activities, including coverage for crop damage.",
+      "example_topics": [
+        "Crop Insurance",
+        "Weather-related Coverage",
+        "Agricultural Claims"
+      ],
+      "target_audience": [
+        "Farmers",
+        "Agricultural businesses",
+        "Individuals involved in farming"
+      ]
+    },
+    {
+      "name": "Media and Communication",
+      "frequency": 3,
+      "category_name": "Media and Communication",
+      "description": "Information intended for media and public relations purposes, including news and corporate materials.",
+      "example_topics": [
+        "Press Releases",
+        "Media Coverage",
+        "Corporate Materials"
+      ],
+      "target_audience": [
+        "Journalists",
+        "Media Outlets",
+        "Public Relations Professionals"
+      ]
+    },
+    {
+      "name": "Company Information",
+      "frequency": 3,
+      "category_name": "Company Information",
+      "description": "Information about the company, including history, mission, vision, management, and financial reports.",
+      "example_topics": [
+        "About Us",
+        "Mission & Vision",
+        "Board of Directors",
+        "Capital Structure",
+        "Investor Relations"
+      ],
+      "target_audience": [
+        "Potential customers",
+        "Investors",
+        "Partners"
+      ]
+    },
+    {
+      "name": "Legal and Regulatory Information",
+      "frequency": 3,
+      "category_name": "Legal and Regulatory Information",
+      "description": "Legal policies and regulatory compliance information, including privacy policies, complaint management, and data protection policies.",
+      "example_topics": [
+        "Privacy Policy",
+        "Cookie Policy",
+        "Complaint Management Policy",
+        "Data Retention and Destruction Policy"
+      ],
+      "target_audience": [
+        "Existing customers",
+        "Potential customers",
+        "Legal professionals"
+      ]
+    },
+    {
+      "name": "Media and Public Relations",
+      "frequency": 2,
+      "category_name": "Media and Public Relations",
+      "description": "Contains press releases, media coverage, advertisements, and other public relations materials.",
+      "example_topics": [
+        "Bizden Haberler",
+        "Reklamlarımız / Videolarımız",
+        "Logolarımız"
+      ],
+      "target_audience": [
+        "journalists",
+        "media agencies",
+        "advertising partners",
+        "general public"
+      ]
+    },
+    {
+      "name": "Auto Insurance",
+      "frequency": 2,
+      "category_name": "Auto Insurance",
+      "description": "Pages related to insurance products designed to protect vehicles, including coverage options, benefits, and customer support.",
+      "example_topics": [
+        "e-kasko Insurance",
+        "Akkasko",
+        "Car Insurance Coverage"
+      ],
+      "target_audience": [
+        "Vehicle Owners",
+        "Car Buyers",
+        "Insurance Shoppers"
+      ]
+    },
+    {
+      "name": "Customer Support and Resources",
+      "frequency": 2,
+      "category_name": "Customer Support and Resources",
+      "description": "Pages that offer support and resources to help customers manage their insurance policies, including guides and tutorials.",
+      "example_topics": [
+        "Otomatik Katılım Destek Videoları",
+        "Bi'Tıkla Otomatik Kurumsal",
+        "Customer Satisfaction Center"
+      ],
+      "target_audience": [
+        "current policyholders",
+        "new customers",
+        "corporate clients"
+      ]
+    },
+    {
+      "name": "Life Insurance",
+      "frequency": 2,
+      "category_name": "Life Insurance",
+      "description": "This category comprises information on life insurance policies, including term life, whole life, and individual life insurance products.",
+      "example_topics": [
+        "Term Life Insurance",
+        "Whole Life Insurance",
+        "Individual Life Policies"
+      ],
+      "target_audience": [
+        "Individuals",
+        "Families",
+        "Estate Planners"
+      ]
+    },
+    {
+      "name": "Announcements",
+      "frequency": 2,
+      "category_name": "Announcements",
+      "description": "This category includes pages that provide updates, news, and announcements related to the insurance company\u2019s activities, events, or changes in services.",
+      "example_topics": [
+        "Company events",
+        "Service disruptions",
+        "Community engagements"
+      ],
+      "target_audience": [
+        "Current customers",
+        "University students",
+        "Business partners"
+      ]
+    },
+    {
+      "name": "Community and Social Responsibility",
+      "frequency": 2,
+      "category_name": "Community and Social Responsibility",
+      "description": "Content related to the company's social responsibility initiatives and community engagement efforts.",
+      "example_topics": [
+        "Environmental initiatives",
+        "Education programs",
+        "Community support"
+      ],
+      "target_audience": [
+        "Community members",
+        "Students",
+        "Environmental activists"
+      ]
+    },
+    {
+      "name": "Promotional Campaigns",
+      "frequency": 2,
+      "category_name": "Promotional Campaigns",
+      "description": "Information about active promotional campaigns, terms, conditions, and eligibility criteria for participation.",
+      "example_topics": [
+        "Campaign Terms",
+        "Eligibility Criteria",
+        "Prize Details"
+      ],
+      "target_audience": [
+        "Insurance Customers",
+        "Potential Customers",
+        "T.C. Citizens"
+      ]
+    },
+    {
+      "name": "Customer Service and Support",
+      "frequency": 2,
+      "category_name": "Customer Service and Support",
+      "description": "Contact information and support resources for insurance customers, including finding local agents and customer service.",
+      "example_topics": [
+        "M\u00fcşteri Hizmetlerine Ulaşın",
+        "En yakın acenteyi bulun"
+      ],
+      "target_audience": [
+        "Current policyholders needing assistance",
+        "Individuals looking to purchase insurance"
+      ]
+    },
+    {
+      "name": "Corporate Governance",
+      "frequency": 2,
+      "category_name": "Corporate Governance",
+      "description": "Information related to the governance structure and roles within an insurance organization.",
+      "example_topics": [
+        "Management Roles",
+        "Governance Structure",
+        "Board Responsibilities"
+      ],
+      "target_audience": [
+        "shareholders",
+        "regulators",
+        "corporate analysts"
+      ]
+    },
+    {
+      "name": "Legal Notices",
+      "frequency": 2,
+      "category_name": "Legal Notices",
+      "description": "Legal information and disclaimers related to the use of the website and its services.",
+      "example_topics": [
+        "Terms of Service",
+        "Legal Disclaimers",
+        "Regulatory Compliance"
+      ],
+      "target_audience": [
+        "Legal Professionals",
+        "General Website Users",
+        "Compliance Officers"
+      ]
+    },
+    {
+      "name": "Cookie Policy",
+      "frequency": 2,
+      "category_name": "Cookie Policy",
+      "description": "Information related to the use of cookies on the website, including legal regulations and user options for managing cookies.",
+      "example_topics": [
+        "Cookie Usage",
+        "Cookie Preferences",
+        "Legal Compliance"
+      ],
+      "target_audience": [
+        "Website Users",
+        "Legal Professionals"
+      ]
+    },
+    {
+      "name": "Accessibility Features",
+      "frequency": 2,
+      "category_name": "Accessibility Features",
+      "description": "Content related to accessibility options and features designed to make the website usable for individuals with disabilities.",
+      "example_topics": [
+        "Accessibility menu",
+        "Accessibility profiles",
+        "Screen readers",
+        "Contrast settings",
+        "Font adjustments"
+      ],
+      "target_audience": [
+        "Individuals with disabilities",
+        "Web accessibility experts",
+        "Website developers"
+      ]
+    },
+    {
+      "name": "Mobile Applications",
+      "frequency": 2,
+      "category_name": "Mobile Applications",
+      "description": "Content related to mobile applications offered by insurance companies, including downloading, usage guides, and features.",
+      "example_topics": [
+        "Cepte Cardif app download",
+        "mobile app features",
+        "how to use insurance apps"
+      ],
+      "target_audience": [
+        "existing customers",
+        "potential customers",
+        "tech-savvy users"
+      ]
+    },
+    {
+      "name": "Privacy and Cookie Management",
+      "frequency": 2,
+      "category_name": "Privacy and Cookie Management",
+      "description": "Pages related to managing privacy preferences and cookie settings for users, including explanations of different types of cookies used on the website.",
+      "example_topics": [
+        "Cookie Preferences",
+        "Privacy Settings",
+        "Types of Cookies",
+        "Cookie Consent Management"
+      ],
+      "target_audience": [
+        "Website Users",
+        "Online Visitors"
+      ]
+    },
+    {
+      "name": "Legal and Compliance",
+      "frequency": 2,
+      "category_name": "Legal and Compliance",
+      "description": "Content related to legal policies, compliance, privacy policies, and protection of personal data.",
+      "example_topics": [
+        "Privacy Policy",
+        "Cookie Policy",
+        "Legal Disclosures",
+        "Personal Data Protection"
+      ],
+      "target_audience": [
+        "General Public",
+        "Legal Professionals",
+        "Regulatory Bodies"
+      ]
+    },
+    {
+      "name": "Financial Information",
+      "frequency": 2,
+      "category_name": "Financial Information",
+      "description": "Pages containing financial data, reports, and other relevant financial disclosures of the company.",
+      "example_topics": [
+        "Annual Reports",
+        "Financial Statements",
+        "Investment Information"
+      ],
+      "target_audience": [
+        "Investors",
+        "Financial Analysts",
+        "Regulatory Bodies"
+      ]
+    },
+    {
+      "name": "Corporate Announcements",
+      "frequency": 2,
+      "category_name": "Corporate Announcements",
+      "description": "Official announcements and updates from Bereket Sigorta & Bereket Emeklilik about company news and events.",
+      "example_topics": [
+        "Annual General Assembly Announcement",
+        "Corporate News"
+      ],
+      "target_audience": [
+        "Investors",
+        "Corporate clients",
+        "Stakeholders"
+      ]
+    },
+    {
+      "name": "Agent Resources",
+      "frequency": 2,
+      "category_name": "Agent Resources",
+      "description": "Tools and information for insurance agents including access to systems, training materials, and contact details.",
+      "example_topics": [
+        "Agent Login",
+        "Training Resources",
+        "Contact Information"
+      ],
+      "target_audience": [
+        "Insurance agents",
+        "Sales representatives",
+        "Agency managers"
+      ]
+    },
+    {
+      "name": "Healthcare Management Services",
+      "frequency": 2,
+      "category_name": "Healthcare Management Services",
+      "description": "Pages in this category focus on services that manage healthcare expenditures and improve operational efficiency in health insurance.",
+      "example_topics": [
+        "Sağlık Harcamaları Y\u00f6netim Hizmetleri (TPA)",
+        "Izmed"
+      ],
+      "target_audience": [
+        "insurance companies",
+        "healthcare administrators",
+        "financial managers in healthcare"
+      ]
+    },
+    {
+      "name": "Customer Service Solutions",
+      "frequency": 2,
+      "category_name": "Customer Service Solutions",
+      "description": "This category covers services that enhance customer interaction and service delivery through technology, such as chatbots and call center support.",
+      "example_topics": [
+        "ChatBot"
+      ],
+      "target_audience": [
+        "customer service departments",
+        "insurance companies",
+        "call center managers"
+      ]
+    },
+    {
+      "name": "Customer Benefits and Discounts",
+      "frequency": 1,
+      "category_name": "Customer Benefits and Discounts",
+      "description": "Pages detailing exclusive offers, discounts, and benefits available to policyholders.",
+      "example_topics": [
+        "Travel Discounts with OBİLET",
+        "Car Wash Service at ooAutos",
+        "Children's Offers at MinyCenter",
+        "Entertainment Deals at Vialand",
+        "Educational Discounts with Open English"
+      ],
+      "target_audience": [
+        "Aksigorta policyholders",
+        "Potential insurance customers",
+        "Families seeking entertainment and educational offers"
+      ]
+    },
+    {
+      "name": "Promotional Offers",
+      "frequency": 1,
+      "category_name": "Promotional Offers",
+      "description": "Content focusing on time-sensitive promotional offers for existing customers.",
+      "example_topics": [
+        "Limited-time travel discounts",
+        "Special vehicle services",
+        "Exclusive discounts on educational platforms"
+      ],
+      "target_audience": [
+        "Current customers of Aksigorta",
+        "Individuals looking for discounted services"
+      ]
+    },
+    {
+      "name": "Insurance Partner Services",
+      "frequency": 1,
+      "category_name": "Insurance Partner Services",
+      "description": "Information about services offered in collaboration with partner companies.",
+      "example_topics": [
+        "Collaborations with travel agencies",
+        "Partnerships with car service providers",
+        "Educational service partnerships"
+      ],
+      "target_audience": [
+        "Aksigorta policyholders",
+        "Business partners"
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "frequency": 1,
+      "category_name": "Human Resources",
+      "description": "Information related to career opportunities, employee development, and HR policies at the company.",
+      "example_topics": [
+        "Aksigorta'da İnsan Kaynakları",
+        "Eğitimler ve Yetenek Gelişimi",
+        "Kariyer Fırsatları ve İnsan Kaynakları Uygulamaları",
+        "Aksigorta\u2019da Kariyer"
+      ],
+      "target_audience": [
+        "job seekers",
+        "current employees",
+        "HR professionals"
+      ]
+    },
+    {
+      "name": "Specialty Insurance",
+      "frequency": 1,
+      "category_name": "Specialty Insurance",
+      "description": "Insurance products designed for specific needs, such as yacht insurance and pet insurance, offering tailored coverage options.",
+      "example_topics": [
+        "Yacht Insurance",
+        "Paw Insurance"
+      ],
+      "target_audience": [
+        "Pet Owners",
+        "Boat Owners",
+        "Specialty Vehicle Owners"
+      ]
+    },
+    {
+      "name": "Customer Support and Experience",
+      "frequency": 1,
+      "category_name": "Customer Support and Experience",
+      "description": "Pages focused on customer service offerings, feedback mechanisms, and awards related to customer experience.",
+      "example_topics": [
+        "We are listening to you and value your feedback",
+        "Customer Experience Awards"
+      ],
+      "target_audience": [
+        "Current Customers",
+        "Potential Customers",
+        "Customer Service Enthusiasts"
+      ]
+    },
+    {
+      "name": "Claims and Mobile Application",
+      "frequency": 1,
+      "category_name": "Claims and Mobile Application",
+      "description": "Content related to the claims process and mobile application features for managing insurance and claims.",
+      "example_topics": [
+        "Claims Advisor",
+        "Mobile App Features"
+      ],
+      "target_audience": [
+        "Insurance Policyholders",
+        "Mobile App Users",
+        "Tech-Savvy Consumers"
+      ]
+    },
+    {
+      "name": "Motor Insurance",
+      "frequency": 1,
+      "category_name": "Motor Insurance",
+      "description": "Insurance products related to vehicles, offering coverage like traffic insurance and comprehensive auto insurance.",
+      "example_topics": [
+        "Traffic Insurance",
+        "Comprehensive Car Insurance",
+        "Brand-specific Insurance"
+      ],
+      "target_audience": [
+        "Vehicle owners",
+        "Car buyers",
+        "Individuals seeking auto insurance"
+      ]
+    },
+    {
+      "name": "Pet Insurance",
+      "frequency": 1,
+      "category_name": "Pet Insurance",
+      "description": "Insurance products tailored for pet owners, addressing veterinary and other pet-related needs.",
+      "example_topics": [
+        "Pet Health Insurance",
+        "Vet Coverage",
+        "Paw Insurance"
+      ],
+      "target_audience": [
+        "Pet owners",
+        "Animal lovers"
+      ]
+    },
+    {
+      "name": "Business Insurance",
+      "frequency": 1,
+      "category_name": "Business Insurance",
+      "description": "Insurance coverage for various types of businesses, protecting against operational risks.",
+      "example_topics": [
+        "Business Package Insurance",
+        "Industrial Insurance",
+        "Pharmacy Insurance",
+        "Fuel Station Insurance",
+        "Hotel Insurance"
+      ],
+      "target_audience": [
+        "Business owners",
+        "Entrepreneurs",
+        "Corporate managers"
+      ]
+    },
+    {
+      "name": "Miscellaneous Insurance",
+      "frequency": 1,
+      "category_name": "Miscellaneous Insurance",
+      "description": "Other insurance options covering unique risks, including agricultural, unemployment, and card security.",
+      "example_topics": [
+        "Yacht Insurance",
+        "Agricultural Insurance",
+        "Credit Card Unemployment Insurance",
+        "Card Security Insurance"
+      ],
+      "target_audience": [
+        "Agriculture professionals",
+        "Credit card users",
+        "Boat owners"
+      ]
+    },
+    {
+      "name": "Regional Offices",
+      "frequency": 1,
+      "category_name": "Regional Offices",
+      "description": "Information about regional offices or branches of the insurance company, including their contact details and addresses.",
+      "example_topics": [
+        "regional offices",
+        "branch locations",
+        "office contact details"
+      ],
+      "target_audience": [
+        "existing customers",
+        "potential customers",
+        "job seekers",
+        "business partners"
+      ]
+    },
+    {
+      "name": "Feedback & Suggestions",
+      "frequency": 1,
+      "category_name": "Feedback & Suggestions",
+      "description": "Pages dedicated to collecting feedback and suggestions from customers regarding their services.",
+      "example_topics": [
+        "feedback",
+        "suggestions",
+        "customer service"
+      ],
+      "target_audience": [
+        "existing customers"
+      ]
+    },
+    {
+      "name": "Agent Applications",
+      "frequency": 1,
+      "category_name": "Agent Applications",
+      "description": "Information and application forms for individuals or businesses interested in becoming agents for the insurance company.",
+      "example_topics": [
+        "agent applications",
+        "becoming an agent",
+        "agent requirements"
+      ],
+      "target_audience": [
+        "potential agents",
+        "business partners"
+      ]
+    },
+    {
+      "name": "Mandatory Mediation",
+      "frequency": 1,
+      "category_name": "Mandatory Mediation",
+      "description": "Information regarding mandatory mediation processes for commercial disputes involving the insurance company.",
+      "example_topics": [
+        "mandatory mediation",
+        "commercial disputes",
+        "legal processes"
+      ],
+      "target_audience": [
+        "business partners",
+        "legal professionals"
+      ]
+    },
+    {
+      "name": "Main Office Directions",
+      "frequency": 1,
+      "category_name": "Main Office Directions",
+      "description": "Directions and maps to the main office or headquarters of the insurance company.",
+      "example_topics": [
+        "office directions",
+        "maps",
+        "headquarters location"
+      ],
+      "target_audience": [
+        "existing customers",
+        "potential customers",
+        "business partners"
+      ]
+    },
+    {
+      "name": "Endowment Life Insurance",
+      "frequency": 1,
+      "category_name": "Endowment Life Insurance",
+      "description": "Content related to endowment life insurance products, which combine life insurance with investment components, offering maturity benefits and premium refunds.",
+      "example_topics": [
+        "Endowment Product Overview",
+        "Benefits of Endowment Product",
+        "Eligibility Criteria for Endowment Insurance"
+      ],
+      "target_audience": [
+        "Individuals seeking life insurance with investment benefits",
+        "Families looking for financial security and maturity benefits"
+      ]
+    },
+    {
+      "name": "Insurance Policy Details",
+      "frequency": 1,
+      "category_name": "Insurance Policy Details",
+      "description": "Detailed information about specific insurance policy terms, conditions, coverage options, and premium payments.",
+      "example_topics": [
+        "Policy Term and Duration",
+        "Covered Guarantees and Benefits",
+        "Premium Payment Options and Refunds"
+      ],
+      "target_audience": [
+        "Current policyholders",
+        "Potential customers evaluating insurance options"
+      ]
+    },
+    {
+      "name": "Insurance Financial Options",
+      "frequency": 1,
+      "category_name": "Insurance Financial Options",
+      "description": "Content discussing financial aspects of insurance policies, including premium adjustments, borrowing options, and tax advantages.",
+      "example_topics": [
+        "Premium Adjustment Rules",
+        "Borrowing Against Policy",
+        "Tax Advantages of Life Insurance"
+      ],
+      "target_audience": [
+        "Policyholders interested in managing their insurance finances",
+        "Individuals seeking tax-efficient insurance solutions"
+      ]
+    },
+    {
+      "name": "Insurance Purchase Information",
+      "frequency": 1,
+      "category_name": "Insurance Purchase Information",
+      "description": "Guidance on how to purchase insurance products, including brochures, online purchasing options, and customer support.",
+      "example_topics": [
+        "How to Purchase Endowment Insurance",
+        "Customer Brochure Download",
+        "Contact Information for Purchase"
+      ],
+      "target_audience": [
+        "Prospective buyers",
+        "Individuals seeking to understand purchasing processes"
+      ]
+    },
+    {
+      "name": "Social Media and Online Presence",
+      "frequency": 1,
+      "category_name": "Social Media and Online Presence",
+      "description": "Links and information about the company's social media channels and online engagement opportunities.",
+      "example_topics": [
+        "Company Social Media Accounts",
+        "Engage with Us Online",
+        "Follow AgeSA on Social Media"
+      ],
+      "target_audience": [
+        "Social media users",
+        "Individuals interested in staying updated with company news"
+      ]
+    },
+    {
+      "name": "Pension and Life Insurance Information",
+      "frequency": 1,
+      "category_name": "Pension and Life Insurance Information",
+      "description": "Pages that provide detailed information about pension and life insurance products and services, including benefits and features.",
+      "example_topics": [
+        "Private Pension System",
+        "Life Insurance Benefits",
+        "Pension Plan Options"
+      ],
+      "target_audience": [
+        "individuals seeking pension plans",
+        "current policyholders",
+        "potential life insurance customers"
+      ]
+    },
+    {
+      "name": "Corporate Information and Governance",
+      "frequency": 1,
+      "category_name": "Corporate Information and Governance",
+      "description": "Content related to the company's corporate structure, governance, and investor relations.",
+      "example_topics": [
+        "About Us",
+        "Investor Relations",
+        "Sustainability"
+      ],
+      "target_audience": [
+        "investors",
+        "business partners",
+        "regulatory bodies"
+      ]
+    },
+    {
+      "name": "Human Resources and Careers",
+      "frequency": 1,
+      "category_name": "Human Resources and Careers",
+      "description": "Information about career opportunities, HR policies, and internal company culture.",
+      "example_topics": [
+        "Human Resources",
+        "Career Opportunities",
+        "HR Director Message"
+      ],
+      "target_audience": [
+        "job seekers",
+        "employees",
+        "HR professionals"
+      ]
+    },
+    {
+      "name": "Social Media and Community Engagement",
+      "frequency": 1,
+      "category_name": "Social Media and Community Engagement",
+      "description": "Pages and links promoting social media presence and community interaction.",
+      "example_topics": [
+        "Social Media Accounts",
+        "Community Events"
+      ],
+      "target_audience": [
+        "general public",
+        "community members",
+        "social media users"
+      ]
+    },
+    {
+      "name": "Vehicle Insurance",
+      "frequency": 1,
+      "category_name": "Vehicle Insurance",
+      "description": "This category includes content related to insurance products for vehicles, such as car insurance, coverage options for traffic accidents, and comprehensive policies.",
+      "example_topics": [
+        "Car Insurance",
+        "Traffic Insurance",
+        "Comprehensive Vehicle Coverage"
+      ],
+      "target_audience": [
+        "Vehicle Owners",
+        "Car Buyers",
+        "Drivers"
+      ]
+    },
+    {
+      "name": "Property Insurance",
+      "frequency": 1,
+      "category_name": "Property Insurance",
+      "description": "This category includes insurance products for residential and commercial properties, covering risks associated with homes and workplaces.",
+      "example_topics": [
+        "Home Insurance",
+        "Business Property Insurance",
+        "Coverage for Property Damage"
+      ],
+      "target_audience": [
+        "Homeowners",
+        "Business Owners",
+        "Real Estate Investors"
+      ]
+    },
+    {
+      "name": "Miscellaneous Insurance Products",
+      "frequency": 1,
+      "category_name": "Miscellaneous Insurance Products",
+      "description": "Includes other types of insurance products that do not fall into the main categories, such as niche or specialized insurance solutions.",
+      "example_topics": [
+        "Specialized Insurance Products",
+        "Niche Insurance Solutions"
+      ],
+      "target_audience": [
+        "Special Interest Groups",
+        "Industry-specific Consumers"
+      ]
+    },
+    {
+      "name": "Climate Change and Weather Alerts",
+      "frequency": 1,
+      "category_name": "Climate Change and Weather Alerts",
+      "description": "Content related to climate change impacts and weather alert services provided by the insurance company.",
+      "example_topics": [
+        "Weather alerts",
+        "Climate change impacts",
+        "Extreme weather preparations"
+      ],
+      "target_audience": [
+        "Insurance customers",
+        "General public interested in weather alerts"
+      ]
+    },
+    {
+      "name": "Insurance Customer Services",
+      "frequency": 1,
+      "category_name": "Insurance Customer Services",
+      "description": "Information about services offered to customers, including alerts and notifications for safety and preparedness.",
+      "example_topics": [
+        "Push notifications",
+        "SMS alerts",
+        "Customer safety information"
+      ],
+      "target_audience": [
+        "Current insurance policyholders",
+        "Potential policyholders"
+      ]
+    },
+    {
+      "name": "Educational Content",
+      "frequency": 1,
+      "category_name": "Educational Content",
+      "description": "Informative videos and guides about safety measures to be taken during extreme weather conditions.",
+      "example_topics": [
+        "Safety videos",
+        "Precautionary measures for floods and hail",
+        "Weather-related safety tips"
+      ],
+      "target_audience": [
+        "Insurance customers seeking safety information",
+        "Individuals in areas prone to extreme weather"
+      ]
+    },
+    {
+      "name": "Environmental Reports and Data",
+      "frequency": 1,
+      "category_name": "Environmental Reports and Data",
+      "description": "Reports and data derived from environmental and meteorological agencies that provide insights into weather patterns and climate change.",
+      "example_topics": [
+        "Meteorological reports",
+        "Environmental impact assessments",
+        "Climate change statistics"
+      ],
+      "target_audience": [
+        "Research analysts",
+        "Environmental enthusiasts",
+        "Insurance industry professionals"
+      ]
+    },
+    {
+      "name": "Cookies and Privacy Policy",
+      "frequency": 1,
+      "category_name": "Cookies and Privacy Policy",
+      "description": "Information related to the use of cookies and privacy policies on the website, explaining how data is collected and used.",
+      "example_topics": [
+        "Cookie usage",
+        "Privacy settings",
+        "Data protection"
+      ],
+      "target_audience": [
+        "Website visitors",
+        "Privacy-conscious users",
+        "General public"
+      ]
+    },
+    {
+      "name": "Transactional Services",
+      "frequency": 1,
+      "category_name": "Transactional Services",
+      "description": "Pages that offer transactional services such as insurance quotes, claims submission, or policy management.",
+      "example_topics": [
+        "Insurance quotes",
+        "Policy management",
+        "Claims submission"
+      ],
+      "target_audience": [
+        "Potential customers",
+        "Existing policyholders",
+        "Commercial clients"
+      ]
+    },
+    {
+      "name": "Sustainability",
+      "frequency": 1,
+      "category_name": "Sustainability",
+      "description": "Content related to an organization's sustainability practices, policies, milestones, and reports.",
+      "example_topics": [
+        "Sustainability Approach",
+        "Reports",
+        "Milestones",
+        "Policies",
+        "Events"
+      ],
+      "target_audience": [
+        "Environmentally conscious individuals",
+        "Investors",
+        "Policy makers"
+      ]
+    },
+    {
+      "name": "Insurance Offers and Transactions",
+      "frequency": 1,
+      "category_name": "Insurance Offers and Transactions",
+      "description": "Pages where users can get insurance quotes or make transactions related to insurance services.",
+      "example_topics": [
+        "Traffic Insurance Quotes",
+        "Commercial Insurance Quotes",
+        "Withdrawal Notification Form"
+      ],
+      "target_audience": [
+        "Individual insurance buyers",
+        "Corporate insurance buyers"
+      ]
+    },
+    {
+      "name": "Fraud Prevention and Reporting",
+      "frequency": 1,
+      "category_name": "Fraud Prevention and Reporting",
+      "description": "Information and forms related to reporting insurance fraud and incorrect practices.",
+      "example_topics": [
+        "Fraud Report",
+        "Incorrect Insurance Practices"
+      ],
+      "target_audience": [
+        "Insurance customers",
+        "Internal company staff"
+      ]
+    },
+    {
+      "name": "Insurance Guide",
+      "frequency": 1,
+      "category_name": "Insurance Guide",
+      "description": "Educational content that helps users understand insurance policies and services.",
+      "example_topics": [
+        "Insurance guide",
+        "Policy explanations"
+      ],
+      "target_audience": [
+        "New customers",
+        "Individuals seeking insurance information"
+      ]
+    },
+    {
+      "name": "Cookie Policy and Consent Management",
+      "frequency": 1,
+      "category_name": "Cookie Policy and Consent Management",
+      "description": "Information and management options related to cookie use on the website.",
+      "example_topics": [
+        "Cookie Policy",
+        "Consent Management"
+      ],
+      "target_audience": [
+        "Website visitors",
+        "Data privacy advocates"
+      ]
+    },
+    {
+      "name": "Insurance Offer and Contact Information",
+      "frequency": 1,
+      "category_name": "Insurance Offer and Contact Information",
+      "description": "Pages providing options to receive insurance quotes and contact details for inquiries.",
+      "example_topics": [
+        "Get a Quote",
+        "Contact Information"
+      ],
+      "target_audience": [
+        "Potential customers",
+        "General public"
+      ]
+    },
+    {
+      "name": "Health Insurance Information",
+      "frequency": 1,
+      "category_name": "Health Insurance Information",
+      "description": "Pages focusing on health insurance options and details.",
+      "example_topics": [
+        "Health Insurance Plans",
+        "Coverage Information"
+      ],
+      "target_audience": [
+        "Individuals",
+        "Families"
+      ]
+    },
+    {
+      "name": "Reinsurer Information",
+      "frequency": 1,
+      "category_name": "Reinsurer Information",
+      "description": "Information aimed at reinsurers, including policy details and collaboration opportunities.",
+      "example_topics": [
+        "Reinsurance Policies",
+        "Partnership Opportunities"
+      ],
+      "target_audience": [
+        "Reinsurers",
+        "Insurance companies"
+      ]
+    },
+    {
+      "name": "International Insurance Networks",
+      "frequency": 1,
+      "category_name": "International Insurance Networks",
+      "description": "Information on international insurance collaborations and networks.",
+      "example_topics": [
+        "Global Insurance Network",
+        "International Partnerships"
+      ],
+      "target_audience": [
+        "International insurance companies",
+        "Global partners"
+      ]
+    },
+    {
+      "name": "Cookie Policy and Preferences",
+      "frequency": 1,
+      "category_name": "Cookie Policy and Preferences",
+      "description": "Information about cookie usage and options to customize cookie settings.",
+      "example_topics": [
+        "Cookie Types",
+        "Cookie Preferences"
+      ],
+      "target_audience": [
+        "Website visitors",
+        "Privacy-conscious users"
+      ]
+    },
+    {
+      "name": "Cookie Preferences",
+      "frequency": 1,
+      "category_name": "Cookie Preferences",
+      "description": "Pages detailing cookie usage policies and options for preferences related to cookies on websites.",
+      "example_topics": [
+        "Mandatory Cookies",
+        "Performance Cookies",
+        "Functional Cookies",
+        "Marketing Cookies"
+      ],
+      "target_audience": [
+        "General website visitors",
+        "Privacy-conscious users"
+      ]
+    },
+    {
+      "name": "Promotions and Campaigns",
+      "frequency": 1,
+      "category_name": "Promotions and Campaigns",
+      "description": "Pages showcasing special offers, campaigns, and promotions related to insurance products and services.",
+      "example_topics": [
+        "Individual Pension Account Campaigns",
+        "Additional Contribution Awards",
+        "Interest-Free Installment Opportunities"
+      ],
+      "target_audience": [
+        "Individual customers",
+        "Corporate clients",
+        "Potential new customers"
+      ]
+    },
+    {
+      "name": "Insurance Services and Products",
+      "frequency": 1,
+      "category_name": "Insurance Services and Products",
+      "description": "Pages detailing the various insurance products and services offered by the company, including pension plans and coverage options.",
+      "example_topics": [
+        "Individual Pension Plans",
+        "Health Insurance",
+        "Auto and Home Insurance"
+      ],
+      "target_audience": [
+        "Existing customers",
+        "Potential new clients",
+        "Insurance brokers"
+      ]
+    },
+    {
+      "name": "Cookie Management",
+      "frequency": 1,
+      "category_name": "Cookie Management",
+      "description": "Pages related to the management and use of cookies on the website, including user consent and preference settings.",
+      "example_topics": [
+        "Mandatory Cookies",
+        "Performance Cookies",
+        "Functional Cookies",
+        "Marketing Cookies"
+      ],
+      "target_audience": [
+        "General Website Visitors",
+        "Privacy-Conscious Users"
+      ]
+    },
+    {
+      "name": "Online Services",
+      "frequency": 1,
+      "category_name": "Online Services",
+      "description": "Online tools and forms for managing insurance-related transactions and inquiries.",
+      "example_topics": [
+        "IBAN/Hesap No Bildirimi",
+        "Online Hasar İhbarı",
+        "Eksper Giriş",
+        "Acente Başvuru"
+      ],
+      "target_audience": [
+        "Insurance policyholders",
+        "Insurance agents",
+        "Customers seeking online service options"
+      ]
+    },
+    {
+      "name": "Claims and Applications",
+      "frequency": 1,
+      "category_name": "Claims and Applications",
+      "description": "Guidance and procedures related to filing claims and using applications such as the 'Kaza Tespit Tutanağı' for accidents.",
+      "example_topics": [
+        "Kaza Tespit Tutanağı Uygulaması",
+        "Claims process",
+        "Accident reporting"
+      ],
+      "target_audience": [
+        "insurance policyholders",
+        "drivers involved in accidents"
+      ]
+    },
+    {
+      "name": "Frequently Asked Questions (FAQs)",
+      "frequency": 1,
+      "category_name": "Frequently Asked Questions (FAQs)",
+      "description": "Common inquiries and responses related to insurance policies, coverage, claims, and other customer concerns.",
+      "example_topics": [
+        "Hasar",
+        "Kaza",
+        "Sağlık",
+        "Tarım",
+        "insurance queries"
+      ],
+      "target_audience": [
+        "current policyholders",
+        "potential customers"
+      ]
+    },
+    {
+      "name": "Legal and Policy Information",
+      "frequency": 1,
+      "category_name": "Legal and Policy Information",
+      "description": "Details about policy terms, conditions, and legal aspects of insurance coverage.",
+      "example_topics": [
+        "Policy terms",
+        "Legal coverage",
+        "Insurance conditions"
+      ],
+      "target_audience": [
+        "current policyholders",
+        "individuals reviewing policy details"
+      ]
+    },
+    {
+      "name": "Promotional Content",
+      "frequency": 1,
+      "category_name": "Promotional Content",
+      "description": "Marketing and promotional statements related to the benefits of choosing a particular insurance provider.",
+      "example_topics": [
+        "Mutluluğun Sigortası",
+        "Promotions",
+        "Benefits of insurance"
+      ],
+      "target_audience": [
+        "potential customers",
+        "individuals comparing insurance options"
+      ]
+    },
+    {
+      "name": "Insurance Networks and Partnerships",
+      "frequency": 1,
+      "category_name": "Insurance Networks and Partnerships",
+      "description": "Information on partnered institutions and networks available for insurance policyholders.",
+      "example_topics": [
+        "Anlaşmalı Kurumlar",
+        "Network coverage options"
+      ],
+      "target_audience": [
+        "Current policyholders",
+        "Potential customers interested in network coverage"
+      ]
+    },
+    {
+      "name": "Commercial Insurance",
+      "frequency": 1,
+      "category_name": "Commercial Insurance",
+      "description": "Information about various types of commercial insurance products tailored for businesses and enterprises.",
+      "example_topics": [
+        "Workplace Insurance",
+        "Liability Insurance",
+        "Engineering Insurance",
+        "Cargo Insurance",
+        "Financial Insurance"
+      ],
+      "target_audience": [
+        "Business owners",
+        "Corporate entities",
+        "Entrepreneurs"
+      ]
+    },
+    {
+      "name": "Types of Insurance",
+      "frequency": 1,
+      "category_name": "Types of Insurance",
+      "description": "Content that provides detailed information about different types of insurance available.",
+      "example_topics": [
+        "Auto insurance",
+        "Home insurance",
+        "Engineering insurance",
+        "Personal accident insurance",
+        "Surety insurance"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "General public",
+        "Insurance agents"
+      ]
+    },
+    {
+      "name": "Fraud Prevention",
+      "frequency": 1,
+      "category_name": "Fraud Prevention",
+      "description": "Information related to the prevention, detection, and reporting of fraudulent activities in insurance.",
+      "example_topics": [
+        "Fraudulent insurance claims",
+        "Fraud prevention guidelines",
+        "Legal consequences of insurance fraud"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Insurance companies",
+        "Legal professionals"
+      ]
+    },
+    {
+      "name": "Unclaimed Funds",
+      "frequency": 1,
+      "category_name": "Unclaimed Funds",
+      "description": "Content concerning the management and inquiry of unclaimed funds under insurance policies.",
+      "example_topics": [
+        "Unclaimed insurance funds",
+        "Procedures for claiming unclaimed funds",
+        "Regulations on unclaimed funds"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Beneficiaries",
+        "Insurance companies"
+      ]
+    },
+    {
+      "name": "Product Liability Insurance",
+      "frequency": 1,
+      "category_name": "Product Liability Insurance",
+      "description": "Pages providing information about product liability insurance, including coverage details, conditions, exclusions, and the importance of having such insurance.",
+      "example_topics": [
+        "What is Product Liability Insurance?",
+        "Coverage and Exclusions",
+        "Optional vs Mandatory"
+      ],
+      "target_audience": [
+        "Manufacturers",
+        "Business Owners",
+        "Legal Advisors"
+      ]
+    },
+    {
+      "name": "Insurance Terms and Conditions",
+      "frequency": 1,
+      "category_name": "Insurance Terms and Conditions",
+      "description": "Pages outlining the general conditions and terms of insurance policies, including details on coverage limits, exclusions, and legal requirements.",
+      "example_topics": [
+        "General Conditions",
+        "Policy Terms",
+        "Exclusions"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Insurance Agents",
+        "Legal Advisors"
+      ]
+    },
+    {
+      "name": "Insurance FAQs",
+      "frequency": 1,
+      "category_name": "Insurance FAQs",
+      "description": "Pages addressing frequently asked questions about insurance policies, including coverage details, mandatory requirements, and specific conditions.",
+      "example_topics": [
+        "When is this insurance valid?",
+        "Is this insurance mandatory?",
+        "What is excluded from coverage?"
+      ],
+      "target_audience": [
+        "Potential Policyholders",
+        "Business Owners",
+        "General Public"
+      ]
+    },
+    {
+      "name": "Insurance Company Information",
+      "frequency": 1,
+      "category_name": "Insurance Company Information",
+      "description": "Pages providing information about the insurance company, including its history, values, and contact details.",
+      "example_topics": [
+        "Company Background",
+        "Contact Information",
+        "Services Offered"
+      ],
+      "target_audience": [
+        "Potential Customers",
+        "Business Partners",
+        "Industry Professionals"
+      ]
+    },
+    {
+      "name": "Specific Insurance Services",
+      "frequency": 1,
+      "category_name": "Specific Insurance Services",
+      "description": "Pages detailing specific insurance services offered by the company, such as auto insurance, home insurance, and business insurance.",
+      "example_topics": [
+        "Auto Insurance Options",
+        "Home Insurance Packages",
+        "Business Insurance Solutions"
+      ],
+      "target_audience": [
+        "Vehicle Owners",
+        "Homeowners",
+        "Business Owners"
+      ]
+    },
+    {
+      "name": "Contact and Support",
+      "frequency": 1,
+      "category_name": "Contact and Support",
+      "description": "Pages providing contact information and support options for customers seeking assistance or wanting to make inquiries.",
+      "example_topics": [
+        "Contact Information",
+        "Customer Support",
+        "Feedback and Suggestions"
+      ],
+      "target_audience": [
+        "Existing Customers",
+        "Potential Customers",
+        "General Public"
+      ]
+    },
+    {
+      "name": "Executive Leadership",
+      "frequency": 1,
+      "category_name": "Executive Leadership",
+      "description": "Profiles and biographies of executive leaders and board members within insurance companies.",
+      "example_topics": [
+        "Board of Directors",
+        "Executive Profiles",
+        "Leadership Biographies"
+      ],
+      "target_audience": [
+        "industry professionals",
+        "investors",
+        "business partners"
+      ]
+    },
+    {
+      "name": "Insurance Industry Involvement",
+      "frequency": 1,
+      "category_name": "Insurance Industry Involvement",
+      "description": "Details of involvement in the insurance industry, including strategic roles and contributions.",
+      "example_topics": [
+        "Strategic Initiatives",
+        "Industry Contributions",
+        "Insurance Sector Roles"
+      ],
+      "target_audience": [
+        "insurance professionals",
+        "industry analysts",
+        "regulatory bodies"
+      ]
+    },
+    {
+      "name": "Career Milestones",
+      "frequency": 1,
+      "category_name": "Career Milestones",
+      "description": "Highlights of professional achievements and career milestones of executives in the insurance sector.",
+      "example_topics": [
+        "Career Achievements",
+        "Professional History",
+        "Milestones"
+      ],
+      "target_audience": [
+        "career aspirants",
+        "human resource professionals",
+        "industry peers"
+      ]
+    },
+    {
+      "name": "Legal and Academic Contributions",
+      "frequency": 1,
+      "category_name": "Legal and Academic Contributions",
+      "description": "Academic and legal contributions made by board members, specifically focusing on insurance and commercial law.",
+      "example_topics": [
+        "Academic Publications",
+        "Legal Research",
+        "Insurance Law"
+      ],
+      "target_audience": [
+        "legal professionals",
+        "academics",
+        "students"
+      ]
+    },
+    {
+      "name": "Business Ventures and Investments",
+      "frequency": 1,
+      "category_name": "Business Ventures and Investments",
+      "description": "Information about various business ventures and investments made by board members, including outside the insurance sector.",
+      "example_topics": [
+        "Business Ventures",
+        "Sector Investments",
+        "Corporate Expansion"
+      ],
+      "target_audience": [
+        "entrepreneurs",
+        "business developers",
+        "investors"
+      ]
+    },
+    {
+      "name": "Branch Locations",
+      "frequency": 1,
+      "category_name": "Branch Locations",
+      "description": "Information regarding the physical locations of the company\u2019s branches and regional offices.",
+      "example_topics": [
+        "Ankara Region",
+        "Antalya Region",
+        "Istanbul Region",
+        "Izmir Region"
+      ],
+      "target_audience": [
+        "Local Customers",
+        "Prospective Clients",
+        "Business Travelers"
+      ]
+    },
+    {
+      "name": "Legal and Privacy Policies",
+      "frequency": 1,
+      "category_name": "Legal and Privacy Policies",
+      "description": "Pages related to the company's various policies regarding privacy, data protection, and customer rights.",
+      "example_topics": [
+        "Privacy Policy",
+        "Cookie Policy",
+        "Data Retention Policy",
+        "KVKK Policies"
+      ],
+      "target_audience": [
+        "Existing Customers",
+        "Potential Customers",
+        "Regulatory Bodies",
+        "Legal Analysts"
+      ]
+    },
+    {
+      "name": "Service Offerings",
+      "frequency": 1,
+      "category_name": "Service Offerings",
+      "description": "Details about the services provided by the insurance company, including partnered service providers.",
+      "example_topics": [
+        "Partnered Health Institutions",
+        "Authorized Service Centers",
+        "Insurance Products"
+      ],
+      "target_audience": [
+        "Existing Customers",
+        "Potential Customers",
+        "Service Providers"
+      ]
+    },
+    {
+      "name": "Marketing and Promotions",
+      "frequency": 1,
+      "category_name": "Marketing and Promotions",
+      "description": "Marketing materials and promotional content, highlighting the unique selling points of the company's insurance products.",
+      "example_topics": [
+        "Why Choose Us?",
+        "Unique Insurance Products",
+        "Digital Insurance Solutions"
+      ],
+      "target_audience": [
+        "Potential customers",
+        "Young adults"
+      ]
+    },
+    {
+      "name": "Agent Portal",
+      "frequency": 1,
+      "category_name": "Agent Portal",
+      "description": "Dedicated section for insurance agents to log in and access their accounts or manage their services.",
+      "example_topics": [
+        "Agent Login",
+        "Agent Services"
+      ],
+      "target_audience": [
+        "Insurance agents",
+        "Agency partners"
+      ]
+    },
+    {
+      "name": "Help Center",
+      "frequency": 1,
+      "category_name": "Help Center",
+      "description": "Resources and guides to assist customers with common queries and issues.",
+      "example_topics": [
+        "Damage Reporting",
+        "Service Agreements",
+        "Frequently Asked Questions"
+      ],
+      "target_audience": [
+        "Existing customers",
+        "Potential customers"
+      ]
+    },
+    {
+      "name": "Privacy and Legal Policies",
+      "frequency": 1,
+      "category_name": "Privacy and Legal Policies",
+      "description": "Pages that detail the company's policies on privacy, data protection, and legal compliance.",
+      "example_topics": [
+        "\u00c7erez Politikası",
+        "Gizlilik Politikası",
+        "KVKK Politikası"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Legal professionals",
+        "General public"
+      ]
+    },
+    {
+      "name": "Healthcare and Service Providers",
+      "frequency": 1,
+      "category_name": "Healthcare and Service Providers",
+      "description": "Pages listing healthcare facilities and service providers affiliated with the insurance company.",
+      "example_topics": [
+        "Anlaşmalı Sağlık Kuruluşları",
+        "Anlaşmalı Servisler"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Healthcare professionals"
+      ]
+    },
+    {
+      "name": "Agent and Branch Information",
+      "frequency": 1,
+      "category_name": "Agent and Branch Information",
+      "description": "Pages providing information about local agents and branches for customer convenience.",
+      "example_topics": [
+        "En Yakın Acente",
+        "Acentelerimiz"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Potential customers"
+      ]
+    },
+    {
+      "name": "Financial and Investor Relations",
+      "frequency": 1,
+      "category_name": "Financial and Investor Relations",
+      "description": "Pages offering financial reports and investor relations information.",
+      "example_topics": [
+        "Raporlar / Yatırımcı İlişkileri"
+      ],
+      "target_audience": [
+        "Investors",
+        "Financial analysts"
+      ]
+    },
+    {
+      "name": "Cookies and Privacy",
+      "frequency": 1,
+      "category_name": "Cookies and Privacy",
+      "description": "Information on cookie usage, privacy policies, and consent related to legal regulations.",
+      "example_topics": [
+        "Cookie consent",
+        "Privacy policy",
+        "Cookie settings management",
+        "Legal compliance"
+      ],
+      "target_audience": [
+        "Website visitors",
+        "Privacy-conscious users",
+        "Legal teams",
+        "Compliance officers"
+      ]
+    },
+    {
+      "name": "Company News and Announcements",
+      "frequency": 1,
+      "category_name": "Company News and Announcements",
+      "description": "Updates and announcements regarding AXA's financial performance, general meetings, and other corporate information.",
+      "example_topics": [
+        "Profit distribution announcements",
+        "General assembly declarations",
+        "Annual financial reports",
+        "Corporate news"
+      ],
+      "target_audience": [
+        "Investors",
+        "Shareholders",
+        "Financial analysts",
+        "AXA customers interested in company news"
+      ]
+    },
+    {
+      "name": "Financial Planning",
+      "frequency": 1,
+      "category_name": "Financial Planning",
+      "description": "Information related to financial topics such as investment funds and calculation of returns, aimed at helping users make informed decisions.",
+      "example_topics": [
+        "Retirement Fund Management",
+        "Fund Return Calculation",
+        "Investment Strategies"
+      ],
+      "target_audience": [
+        "Investors",
+        "Financial Advisors",
+        "Individuals Planning Retirement"
+      ]
+    },
+    {
+      "name": "Global Retirement Information",
+      "frequency": 1,
+      "category_name": "Global Retirement Information",
+      "description": "Comparative information about retirement ages and limitations across different countries.",
+      "example_topics": [
+        "Retirement Ages by Country",
+        "Global Retirement Limitations"
+      ],
+      "target_audience": [
+        "Researchers",
+        "Individuals Planning International Retirement",
+        "Policy Makers"
+      ]
+    },
+    {
+      "name": "Blog and Educational Content",
+      "frequency": 1,
+      "category_name": "Blog and Educational Content",
+      "description": "Educational articles and blogs that provide in-depth information about retirement funds, state contributions, and other related topics.",
+      "example_topics": [
+        "What Are Individual Retirement Funds?",
+        "State Contribution in Retirement Systems"
+      ],
+      "target_audience": [
+        "General Public",
+        "Individuals Planning Retirement",
+        "Students"
+      ]
+    },
+    {
+      "name": "Brand Assets",
+      "frequency": 1,
+      "category_name": "Brand Assets",
+      "description": "Resources related to AXA brand logos, including formats and usage guidelines.",
+      "example_topics": [
+        "AXA Hayat ve Emeklilik logos",
+        "Logo usage guidelines",
+        "Branding resources"
+      ],
+      "target_audience": [
+        "Marketing professionals",
+        "Brand managers",
+        "Graphic designers"
+      ]
+    },
+    {
+      "name": "Multi-language Support",
+      "frequency": 1,
+      "category_name": "Multi-language Support",
+      "description": "Pages providing options for selecting different languages for the website interface to accommodate diverse linguistic audiences.",
+      "example_topics": [
+        "Language selection",
+        "Multi-language interface",
+        "Localization options"
+      ],
+      "target_audience": [
+        "International users",
+        "Multilingual individuals",
+        "Website developers"
+      ]
+    },
+    {
+      "name": "Website Accessibility",
+      "frequency": 1,
+      "category_name": "Website Accessibility",
+      "description": "Content related to making websites accessible to users with disabilities, including options for visual, auditory, and motor impairments.",
+      "example_topics": [
+        "Accessibility profiles",
+        "Screen reader optimization",
+        "Color blindness adjustments",
+        "Disability-friendly navigation"
+      ],
+      "target_audience": [
+        "Individuals with disabilities",
+        "Web developers",
+        "Compliance officers"
+      ]
+    },
+    {
+      "name": "Insurance Services",
+      "frequency": 1,
+      "category_name": "Insurance Services",
+      "description": "Overview of insurance products and services offered to individual and corporate clients.",
+      "example_topics": [
+        "Individual insurance services",
+        "Corporate insurance solutions",
+        "Partner institutions"
+      ],
+      "target_audience": [
+        "Potential insurance clients",
+        "Business owners",
+        "Insurance agents"
+      ]
+    },
+    {
+      "name": "Language Options",
+      "frequency": 1,
+      "category_name": "Language Options",
+      "description": "Information and settings related to the availability of multiple language options for users.",
+      "example_topics": [
+        "Application language settings",
+        "Multilingual support"
+      ],
+      "target_audience": [
+        "Non-native speakers",
+        "International users"
+      ]
+    },
+    {
+      "name": "Data Privacy",
+      "frequency": 1,
+      "category_name": "Data Privacy",
+      "description": "Content related to data privacy policies, cookie usage, and compliance with legal standards for personal data protection.",
+      "example_topics": [
+        "Cookie Policy",
+        "Personal Data Protection",
+        "Privacy Statements"
+      ],
+      "target_audience": [
+        "General Users",
+        "Legal Compliance Officers",
+        "Privacy Advocates"
+      ]
+    },
+    {
+      "name": "Transactional Pages",
+      "frequency": 1,
+      "category_name": "Transactional Pages",
+      "description": "Pages facilitating transactions or service requests, such as insurance purchases or policy updates.",
+      "example_topics": [
+        "Policy Purchase",
+        "Price Quotes",
+        "Service Requests"
+      ],
+      "target_audience": [
+        "Insurance Customers",
+        "Business Clients",
+        "Insurance Brokers"
+      ]
+    },
+    {
+      "name": "Legal and Regulatory Compliance",
+      "frequency": 1,
+      "category_name": "Legal and Regulatory Compliance",
+      "description": "Content discussing compliance with various laws and regulations governing insurance practices and data handling.",
+      "example_topics": [
+        "Consumer Protection Law",
+        "Insurance Regulations",
+        "Data Handling Compliance"
+      ],
+      "target_audience": [
+        "Legal Professionals",
+        "Compliance Officers",
+        "Insurance Regulators"
+      ]
+    },
+    {
+      "name": "Legal and Compliance Information",
+      "frequency": 1,
+      "category_name": "Legal and Compliance Information",
+      "description": "Content related to legal compliance, including cookie usage and privacy policies.",
+      "example_topics": [
+        "Cookie Policy",
+        "Privacy Policy",
+        "Terms of Use"
+      ],
+      "target_audience": [
+        "General public",
+        "Legal professionals",
+        "Compliance officers"
+      ]
+    },
+    {
+      "name": "Individual Insurance Services",
+      "frequency": 1,
+      "category_name": "Individual Insurance Services",
+      "description": "Information about insurance services tailored for individuals.",
+      "example_topics": [
+        "Personal insurance policies",
+        "AXAFit mobile applications"
+      ],
+      "target_audience": [
+        "Individual policyholders",
+        "Prospective clients"
+      ]
+    },
+    {
+      "name": "Corporate Insurance Services",
+      "frequency": 1,
+      "category_name": "Corporate Insurance Services",
+      "description": "Information regarding insurance services designed for corporate clients.",
+      "example_topics": [
+        "Corporate insurance policies",
+        "Partnership agreements"
+      ],
+      "target_audience": [
+        "Businesses",
+        "Corporate clients",
+        "Insurance brokers"
+      ]
+    },
+    {
+      "name": "Customer Support and Contact Information",
+      "frequency": 1,
+      "category_name": "Customer Support and Contact Information",
+      "description": "Pages providing ways to contact the company for support or inquiries.",
+      "example_topics": [
+        "Live support hours",
+        "Customer complaint management",
+        "Contact forms"
+      ],
+      "target_audience": [
+        "Existing customers",
+        "Potential customers",
+        "General public"
+      ]
+    },
+    {
+      "name": "Language and Localization Options",
+      "frequency": 1,
+      "category_name": "Language and Localization Options",
+      "description": "Content related to language settings and localization to serve a diverse audience.",
+      "example_topics": [
+        "Language selection",
+        "Localization settings"
+      ],
+      "target_audience": [
+        "Non-native speakers",
+        "International users"
+      ]
+    },
+    {
+      "name": "Local Services",
+      "frequency": 1,
+      "category_name": "Local Services",
+      "description": "Information regarding local company services and partners, including agents and affiliated institutions.",
+      "example_topics": [
+        "Find an agent",
+        "Affiliated institutions",
+        "Local service offerings"
+      ],
+      "target_audience": [
+        "Local residents",
+        "Business clients",
+        "Insurance professionals"
+      ]
+    },
+    {
+      "name": "About Us",
+      "frequency": 1,
+      "category_name": "About Us",
+      "description": "Pages under this category provide information about the company's history, mission, and values.",
+      "example_topics": [
+        "Company History",
+        "Mission Statement",
+        "Corporate Values"
+      ],
+      "target_audience": [
+        "General Public",
+        "Potential Customers"
+      ]
+    },
+    {
+      "name": "Privacy and Cookie Preferences",
+      "frequency": 1,
+      "category_name": "Privacy and Cookie Preferences",
+      "description": "Pages that explain the company's privacy policy and allow users to manage their cookie preferences.",
+      "example_topics": [
+        "Cookie Policy",
+        "Privacy Settings",
+        "Data Protection"
+      ],
+      "target_audience": [
+        "Website Visitors",
+        "General Public"
+      ]
+    },
+    {
+      "name": "Local Agents",
+      "frequency": 1,
+      "category_name": "Local Agents",
+      "description": "This category includes pages that list regional insurance agency offices, their locations, and contact information.",
+      "example_topics": [
+        "Agency Locations",
+        "Agent Contact Details"
+      ],
+      "target_audience": [
+        "Potential Customers",
+        "Existing Customers"
+      ]
+    },
+    {
+      "name": "Necessary Cookies",
+      "frequency": 1,
+      "category_name": "Necessary Cookies",
+      "description": "Information about cookies that are essential for the website's operation and cannot be disabled in the system.",
+      "example_topics": [
+        "Essential Cookies",
+        "System Functionality",
+        "User Session Management"
+      ],
+      "target_audience": [
+        "Website Visitors",
+        "Users performing transactions"
+      ]
+    },
+    {
+      "name": "Performance Cookies",
+      "frequency": 1,
+      "category_name": "Performance Cookies",
+      "description": "Details about cookies used to collect data on website performance, visitor analytics, and user behavior for site optimization.",
+      "example_topics": [
+        "Site Performance Analysis",
+        "Visitor Tracking",
+        "User Behavior Analytics"
+      ],
+      "target_audience": [
+        "Website Administrators",
+        "Marketing Analysts"
+      ]
+    },
+    {
+      "name": "Functional Cookies",
+      "frequency": 1,
+      "category_name": "Functional Cookies",
+      "description": "Information on cookies that enhance the functionality of the website, allowing for a more personalized user experience.",
+      "example_topics": [
+        "Site Personalization",
+        "User Experience Improvements",
+        "Functionality Enhancement"
+      ],
+      "target_audience": [
+        "Users seeking personalized experiences",
+        "Website Developers"
+      ]
+    },
+    {
+      "name": "Personalized Advertising Cookies",
+      "frequency": 1,
+      "category_name": "Personalized Advertising Cookies",
+      "description": "Details about cookies used for delivering targeted advertisements based on user interests and site interactions.",
+      "example_topics": [
+        "Targeted Advertisements",
+        "Ad Personalization",
+        "Interest-Based Advertising"
+      ],
+      "target_audience": [
+        "Advertisers",
+        "Marketing Teams",
+        "Users interested in tailored ads"
+      ]
+    },
+    {
+      "name": "Legal and Consent Information",
+      "frequency": 1,
+      "category_name": "Legal and Consent Information",
+      "description": "Pages that provide information on legal aspects of cookie consent, privacy rights, and user data protection.",
+      "example_topics": [
+        "Legal Notices",
+        "Consent Management",
+        "Data Protection Laws"
+      ],
+      "target_audience": [
+        "Legal Professionals",
+        "Compliance Officers",
+        "General Public"
+      ]
+    },
+    {
+      "name": "Accessibility in Insurance Websites",
+      "frequency": 1,
+      "category_name": "Accessibility in Insurance Websites",
+      "description": "Content focusing on accessibility features and standards implemented in insurance websites to ensure equal access for all users.",
+      "example_topics": [
+        "Web Accessibility Standards",
+        "Universal Design Principles",
+        "Accessibility Features for Screen Readers"
+      ],
+      "target_audience": [
+        "Individuals with Disabilities",
+        "Website Designers",
+        "Insurance Policyholders"
+      ]
+    },
+    {
+      "name": "Privacy and Data Protection",
+      "frequency": 1,
+      "category_name": "Privacy and Data Protection",
+      "description": "Content related to the company's privacy policies, data protection practices, and compliance with data regulations.",
+      "example_topics": [
+        "Privacy Policy",
+        "Data Protection Regulations",
+        "Cookie Policy"
+      ],
+      "target_audience": [
+        "Existing Policyholders",
+        "Legal Professionals",
+        "Regulatory Bodies"
+      ]
+    },
+    {
+      "name": "Insurance Policy Misconduct",
+      "frequency": 1,
+      "category_name": "Insurance Policy Misconduct",
+      "description": "Information on incorrect insurance practices and guidelines on how to report or avoid them.",
+      "example_topics": [
+        "Incorrect Insurance Practices",
+        "Reporting Misconduct",
+        "Insurance Fraud Prevention"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Insurance Agents",
+        "Compliance Officers"
+      ]
+    },
+    {
+      "name": "Marketing and Social Media",
+      "frequency": 1,
+      "category_name": "Marketing and Social Media",
+      "description": "Links and information regarding the company's presence on social media platforms and marketing initiatives.",
+      "example_topics": [
+        "Social Media Links",
+        "Marketing Campaigns",
+        "Brand Engagement"
+      ],
+      "target_audience": [
+        "General Public",
+        "Potential Customers",
+        "Marketing Professionals"
+      ]
+    },
+    {
+      "name": "Company Overview",
+      "frequency": 1,
+      "category_name": "Company Overview",
+      "description": "Pages that provide detailed information about the company, its history, mission, vision, and organizational structure.",
+      "example_topics": [
+        "Company History",
+        "Vision and Mission",
+        "Corporate Structure",
+        "Management Team"
+      ],
+      "target_audience": [
+        "Potential Clients",
+        "Investors",
+        "Business Partners",
+        "Job Seekers"
+      ]
+    },
+    {
+      "name": "Digital Tools and Resources",
+      "frequency": 1,
+      "category_name": "Digital Tools and Resources",
+      "description": "Online tools and resources available for customers, such as portals, document centers, and apps.",
+      "example_topics": [
+        "Online Portals",
+        "Document Centers",
+        "Mobile Apps"
+      ],
+      "target_audience": [
+        "Current Clients",
+        "Prospective Clients",
+        "Insurance Brokers"
+      ]
+    },
+    {
+      "name": "Claims Management and Tips",
+      "frequency": 1,
+      "category_name": "Claims Management and Tips",
+      "description": "Content related to managing insurance claims, including tips and guidance on handling claims effectively.",
+      "example_topics": [
+        "Vehicle Depreciation",
+        "Accident Report",
+        "Claim Inquiry"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Insurance Agents"
+      ]
+    },
+    {
+      "name": "Online Tools and Services",
+      "frequency": 1,
+      "category_name": "Online Tools and Services",
+      "description": "Various online tools and services available through the company's website for policy management and inquiries.",
+      "example_topics": [
+        "Online Claim Forms",
+        "Service Locator",
+        "Product Purchase"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Potential Customers"
+      ]
+    },
+    {
+      "name": "Insurance Educational Content",
+      "frequency": 1,
+      "category_name": "Insurance Educational Content",
+      "description": "Articles and blog posts that aim to educate visitors about insurance topics and best practices.",
+      "example_topics": [
+        "Understanding Insurance Policies",
+        "Insurance Tips"
+      ],
+      "target_audience": [
+        "General Public",
+        "Policyholders"
+      ]
+    },
+    {
+      "name": "Technical Support",
+      "frequency": 1,
+      "category_name": "Technical Support",
+      "description": "Information about technical support available for users, including remote assistance options.",
+      "example_topics": [
+        "Remote Support",
+        "Technical Help"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Insurance Agents"
+      ]
+    },
+    {
+      "name": "Health Insurance and Wellness",
+      "frequency": 1,
+      "category_name": "Health Insurance and Wellness",
+      "description": "Content related to health insurance products, online health services, wellness tips, and health check-ups.",
+      "example_topics": [
+        "Health Insurance Inquiry",
+        "Online Doctor Consultation",
+        "Check-up Benefits"
+      ],
+      "target_audience": [
+        "Individuals seeking health insurance",
+        "Consumers interested in wellness and preventative health",
+        "General public looking for health-related information"
+      ]
+    },
+    {
+      "name": "Claims and Assistance",
+      "frequency": 1,
+      "category_name": "Claims and Assistance",
+      "description": "Guidance on how to file claims, what to do in case of an accident, and available support services.",
+      "example_topics": [
+        "Claims Processing",
+        "Emergency Procedures",
+        "Partnered Service Providers"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Individuals involved in insurance claims",
+        "Emergency service seekers"
+      ]
+    },
+    {
+      "name": "Investment and Financial Reports",
+      "frequency": 1,
+      "category_name": "Investment and Financial Reports",
+      "description": "Resources and information related to investor relations, financial reports, and corporate investments.",
+      "example_topics": [
+        "Investor Relations",
+        "Financial Reports",
+        "Corporate Investments"
+      ],
+      "target_audience": [
+        "Investors",
+        "Financial analysts",
+        "Corporate stakeholders"
+      ]
+    },
+    {
+      "name": "Business Intelligence and Analytics",
+      "frequency": 1,
+      "category_name": "Business Intelligence and Analytics",
+      "description": "Pages offering tools and solutions for analyzing past claims data and making informed strategic decisions.",
+      "example_topics": [
+        "Izmed"
+      ],
+      "target_audience": [
+        "business analysts",
+        "insurance strategists",
+        "data scientists"
+      ]
+    },
+    {
+      "name": "Web Services Integration",
+      "frequency": 1,
+      "category_name": "Web Services Integration",
+      "description": "Information on web service solutions that allow integration across different systems for streamlined healthcare processes.",
+      "example_topics": [
+        "Octopus"
+      ],
+      "target_audience": [
+        "software developers",
+        "IT integration specialists",
+        "healthcare IT managers"
+      ]
+    },
+    {
+      "name": "Healthcare Claims Management",
+      "frequency": 1,
+      "category_name": "Healthcare Claims Management",
+      "description": "Content related to managing and processing healthcare claims, including tools and services that improve efficiency and accuracy in claims processing.",
+      "example_topics": [
+        "Claimer ECP & Mediclaim",
+        "Sağlık Harcamaları Y\u00f6netim Hizmetleri (TPA)"
+      ],
+      "target_audience": [
+        "Claims Adjusters",
+        "Insurance Managers",
+        "Healthcare Administrators"
+      ]
+    },
+    {
+      "name": "Decision Support and Analytics",
+      "frequency": 1,
+      "category_name": "Decision Support and Analytics",
+      "description": "Tools and services that provide analytics and decision support for evaluating healthcare claims and insurance data to improve strategic decision-making.",
+      "example_topics": [
+        "Izmed",
+        "Business Intelligence Solutions"
+      ],
+      "target_audience": [
+        "Insurance Executives",
+        "Data Analysts",
+        "Healthcare Strategy Planners"
+      ]
+    },
+    {
+      "name": "Regulatory Compliance and Management",
+      "frequency": 1,
+      "category_name": "Regulatory Compliance and Management",
+      "description": "Content focused on ensuring compliance with healthcare regulations and maintaining updated lists and rules as per regulatory requirements.",
+      "example_topics": [
+        "SUT Sim\u00fclat\u00f6r",
+        "Medula Management"
+      ],
+      "target_audience": [
+        "Compliance Officers",
+        "Insurance Managers",
+        "Healthcare Administrators"
+      ]
+    },
+    {
+      "name": "Integration Systems",
+      "frequency": 1,
+      "category_name": "Integration Systems",
+      "description": "Solutions that facilitate integration between insurance systems and healthcare management systems, enhancing interoperability and data exchange.",
+      "example_topics": [
+        "Octopus",
+        "Health Information Systems Integration"
+      ],
+      "target_audience": [
+        "IT Managers",
+        "System Architects",
+        "Healthcare IT Departments"
+      ]
+    },
+    {
+      "name": "Business Intelligence and Data Analysis",
+      "frequency": 1,
+      "category_name": "Business Intelligence and Data Analysis",
+      "description": "Pages related to tools and services that provide data insights and analytics for decision-making in insurance operations.",
+      "example_topics": [
+        "Izmed"
+      ],
+      "target_audience": [
+        "business analysts",
+        "insurance executives",
+        "data scientists"
+      ]
+    },
+    {
+      "name": "System Integration Services",
+      "frequency": 1,
+      "category_name": "System Integration Services",
+      "description": "This category is for services that facilitate the integration of different systems and data sources within insurance and healthcare organizations.",
+      "example_topics": [
+        "Octopus"
+      ],
+      "target_audience": [
+        "IT departments",
+        "system integrators",
+        "software developers"
+      ]
+    },
+    {
+      "name": "Digital Health Services",
+      "frequency": 1,
+      "category_name": "Digital Health Services",
+      "description": "This category includes pages related to digital services provided in the health sector, including operational support and IT solutions.",
+      "example_topics": [
+        "Digital health experience",
+        "Operational support for health insurance"
+      ],
+      "target_audience": [
+        "Health insurance companies",
+        "Banks",
+        "Retirement funds",
+        "Hospitals"
+      ]
+    },
+    {
+      "name": "Access Portal",
+      "frequency": 1,
+      "category_name": "Access Portal",
+      "description": "Pages that provide access to specific services or information portals for stakeholders such as pharmacies, healthcare institutions, and insured members.",
+      "example_topics": [
+        "Pharmacy portal",
+        "Healthcare institution portal",
+        "Insured member portal"
+      ],
+      "target_audience": [
+        "Pharmacies",
+        "Healthcare institutions",
+        "Insured individuals"
+      ]
+    },
+    {
+      "name": "Claim Management Solutions",
+      "frequency": 1,
+      "category_name": "Claim Management Solutions",
+      "description": "Information about software and services designed to optimize the claim management process and improve efficiency.",
+      "example_topics": [
+        "Claimer ECP & Mediclaim",
+        "Healthcare expenditure management"
+      ],
+      "target_audience": [
+        "Insurance companies",
+        "Healthcare providers"
+      ]
+    },
+    {
+      "name": "Healthcare Integration Services",
+      "frequency": 1,
+      "category_name": "Healthcare Integration Services",
+      "description": "Focuses on services that facilitate integration within healthcare systems, ensuring seamless operations.",
+      "example_topics": [
+        "Octopus integration service"
+      ],
+      "target_audience": [
+        "Healthcare institutions",
+        "IT departments in hospitals"
+      ]
+    },
+    {
+      "name": "Insurance Technology Solutions",
+      "frequency": 1,
+      "category_name": "Insurance Technology Solutions",
+      "description": "Products and services offering technological solutions for insurance processes, including integrations and data management.",
+      "example_topics": [
+        "Octopus Web Service",
+        "SUT Sim\u00fclat\u00f6r",
+        "Claimer ECP & Mediclaim"
+      ],
+      "target_audience": [
+        "Insurance companies",
+        "Healthcare institutions",
+        "IT professionals in insurance"
+      ]
+    },
+    {
+      "name": "Healthcare Data Management",
+      "frequency": 1,
+      "category_name": "Healthcare Data Management",
+      "description": "Systems and services that facilitate healthcare data management, integration, and digital documentation transfer.",
+      "example_topics": [
+        "Bilgi Bankası Y\u00f6netim Sistemi (BBYS)",
+        "Digital Document Transfer",
+        "Data Integration with HBYS"
+      ],
+      "target_audience": [
+        "Healthcare institutions",
+        "Data management professionals",
+        "Medical information teams"
+      ]
+    },
+    {
+      "name": "Customer Service Enhancements",
+      "frequency": 1,
+      "category_name": "Customer Service Enhancements",
+      "description": "Services and tools aimed at improving customer service efficiency and access in insurance claims processing.",
+      "example_topics": [
+        "ChatBot",
+        "Call Center Services",
+        "Provizyon Center Access"
+      ],
+      "target_audience": [
+        "Insurance companies",
+        "Call center managers",
+        "Customer service teams"
+      ]
+    },
+    {
+      "name": "Insurance Process Optimization",
+      "frequency": 1,
+      "category_name": "Insurance Process Optimization",
+      "description": "Software solutions and systems designed to streamline and optimize insurance claims and process management.",
+      "example_topics": [
+        "Izmed KPIs for Decision Making",
+        "Sağlık Harcamaları Y\u00f6netim Hizmetleri (TPA)",
+        "Process Efficiency Tools"
+      ],
+      "target_audience": [
+        "Insurance process managers",
+        "Business intelligence professionals",
+        "Healthcare administrators"
+      ]
+    },
+    {
+      "name": "Financial and Claim Management",
+      "frequency": 1,
+      "category_name": "Financial and Claim Management",
+      "description": "Solutions related to the financial aspects of insurance, including claims processing and payment management.",
+      "example_topics": [
+        "Payment Processing",
+        "Online Collection Tracking",
+        "Claim Verification"
+      ],
+      "target_audience": [
+        "Financial managers in insurance",
+        "Claims processing teams",
+        "Healthcare financial departments"
+      ]
+    },
+    {
+      "name": "Corporate Insurance Solutions",
+      "frequency": 1,
+      "category_name": "Corporate Insurance Solutions",
+      "description": "Pages that discuss insurance products and services tailored for businesses and corporations, including risk management and industry-specific solutions.",
+      "example_topics": [
+        "business insurance",
+        "corporate risk management",
+        "industry-specific insurance"
+      ],
+      "target_audience": [
+        "business owners",
+        "corporate managers",
+        "risk management professionals"
+      ]
+    },
+    {
+      "name": "Industry-Specific Insurance",
+      "frequency": 1,
+      "category_name": "Industry-Specific Insurance",
+      "description": "Content focused on insurance products and services designed for specific industries, addressing unique risks and providing tailored coverage.",
+      "example_topics": [
+        "construction insurance",
+        "manufacturing risk coverage",
+        "technology sector insurance"
+      ],
+      "target_audience": [
+        "industry professionals",
+        "sector-specific business owners",
+        "corporate risk advisors"
+      ]
+    },
+    {
+      "name": "Insurance Products and Services",
+      "frequency": 1,
+      "category_name": "Insurance Products and Services",
+      "description": "Information about the various insurance products and services offered, including details on coverage, benefits, and application processes.",
+      "example_topics": [
+        "insurance policies",
+        "coverage details",
+        "product offerings"
+      ],
+      "target_audience": [
+        "business customers",
+        "insurance brokers",
+        "potential clients"
+      ]
+    },
+    {
+      "name": "Risk Management and Mitigation",
+      "frequency": 1,
+      "category_name": "Risk Management and Mitigation",
+      "description": "Resources and strategies for identifying, assessing, and mitigating risks within businesses, using insurance solutions as a key component.",
+      "example_topics": [
+        "risk assessment",
+        "environmental risk management",
+        "problem-solving strategies"
+      ],
+      "target_audience": [
+        "risk managers",
+        "business strategists",
+        "corporate leaders"
+      ]
+    },
+    {
+      "name": "Preventive Insurance",
+      "frequency": 1,
+      "category_name": "Preventive Insurance",
+      "description": "Content related to proactive measures in insurance to mitigate risks before they occur.",
+      "example_topics": [
+        "preventive insurance strategies",
+        "risk mitigation",
+        "Corpus's unique offerings"
+      ],
+      "target_audience": [
+        "business owners",
+        "individuals interested in risk management"
+      ]
+    },
+    {
+      "name": "Newsletter and Updates",
+      "frequency": 1,
+      "category_name": "Newsletter and Updates",
+      "description": "Information and options for subscribing to updates and newsletters from the company.",
+      "example_topics": [
+        "subscription options",
+        "recent developments",
+        "company news"
+      ],
+      "target_audience": [
+        "existing customers",
+        "potential customers",
+        "industry followers"
+      ]
+    },
+    {
+      "name": "Privacy and Cookie Policy",
+      "frequency": 1,
+      "category_name": "Privacy and Cookie Policy",
+      "description": "Information on privacy practices and cookie usage for site visitors.",
+      "example_topics": [
+        "cookie policy",
+        "privacy practices",
+        "data management"
+      ],
+      "target_audience": [
+        "site visitors",
+        "customers",
+        "compliance officers"
+      ]
+    },
+    {
+      "name": "Online Health Consultation Services",
+      "frequency": 1,
+      "category_name": "Online Health Consultation Services",
+      "description": "Pages that provide information and access to virtual health consultation services, allowing users to consult with doctors online at any time.",
+      "example_topics": [
+        "24/7 Online Health Consultation",
+        "Doctor Online Meeting Opportunities",
+        "Live Chat with Health Professionals"
+      ],
+      "target_audience": [
+        "Insurance policyholders",
+        "Individuals seeking health consultations",
+        "Users interested in telehealth services"
+      ]
+    },
+    {
+      "name": "User Authentication",
+      "frequency": 1,
+      "category_name": "User Authentication",
+      "description": "Pages that require users to input personal information for identity verification and access to services.",
+      "example_topics": [
+        "User Login Portal",
+        "Personal Identification Verification",
+        "Secure Access to Services"
+      ],
+      "target_audience": [
+        "Insurance policyholders",
+        "Registered users",
+        "Individuals accessing personal account services"
+      ]
+    },
+    {
+      "name": "Telehealth Features",
+      "frequency": 1,
+      "category_name": "Telehealth Features",
+      "description": "Pages that describe the features and benefits of telehealth services provided by insurance companies.",
+      "example_topics": [
+        "Expert Doctor Availability",
+        "Virtual Health Services",
+        "Telemedicine Accessibility"
+      ],
+      "target_audience": [
+        "Insurance policyholders",
+        "Individuals interested in telehealth",
+        "Health-conscious consumers"
+      ]
+    },
+    {
+      "name": "Partnership and Agency Applications",
+      "frequency": 1,
+      "category_name": "Partnership and Agency Applications",
+      "description": "Pages related to applications for partnerships or establishing agency relationships with the insurance company.",
+      "example_topics": [
+        "Anlaşmalı Kurum Başvurusu",
+        "Acente Başvuru"
+      ],
+      "target_audience": [
+        "Business partners",
+        "Insurance agents",
+        "Corporate entities"
+      ]
+    },
+    {
+      "name": "Location Services",
+      "frequency": 1,
+      "category_name": "Location Services",
+      "description": "Pages that help users find physical locations related to the insurance company, such as offices and agents.",
+      "example_topics": [
+        "Find Nearest Agent",
+        "Maps and Location Services"
+      ],
+      "target_audience": [
+        "Existing customers",
+        "Potential customers",
+        "Business partners",
+        "General public"
+      ]
+    },
+    {
+      "name": "Group Insurance",
+      "frequency": 1,
+      "category_name": "Group Insurance",
+      "description": "Insurance products tailored for groups, such as company employees and their families.",
+      "example_topics": [
+        "Group Annual Life Insurance",
+        "Group Health Insurance"
+      ],
+      "target_audience": [
+        "Corporate entities",
+        "HR departments",
+        "Employee benefits managers"
+      ]
+    },
+    {
+      "name": "Health Insurance Plans",
+      "frequency": 1,
+      "category_name": "Health Insurance Plans",
+      "description": "Pages related to various health insurance plans offered by Demir Sağlık, including detailed descriptions and purchasing options.",
+      "example_topics": [
+        "Dijital \u00d6zel Sağlık Sigortası",
+        "Tamamlayıcı Sağlık Sigortası",
+        "İki Can Hamilelik Sigortası",
+        "Seyahat Sağlık Sigortası"
+      ],
+      "target_audience": [
+        "Individuals seeking health coverage",
+        "Pregnant women",
+        "Travelers",
+        "Families"
+      ]
+    },
+    {
+      "name": "Insurance Benefits and Services",
+      "frequency": 1,
+      "category_name": "Insurance Benefits and Services",
+      "description": "Information about special services and benefits provided to policyholders, such as online doctor services and exclusive health services.",
+      "example_topics": [
+        "Online Re\u00e7eteli Doktor",
+        "Acil Sağlık Sigortası",
+        "Demir Sağlık Mobil Uygulaması"
+      ],
+      "target_audience": [
+        "Existing policyholders",
+        "Prospective customers"
+      ]
+    },
+    {
+      "name": "Promotions and Discounts",
+      "frequency": 1,
+      "category_name": "Promotions and Discounts",
+      "description": "Pages offering special discounts and promotions for purchasing insurance products, often linked to partnerships like Hopi.",
+      "example_topics": [
+        "Hopililere \u00d6zel Avantajlar",
+        "Farkı Bizden Tamamlayıcı Sağlık Sigortası\u2019nda indirim"
+      ],
+      "target_audience": [
+        "Cost-conscious consumers",
+        "Hopi users"
+      ]
+    },
+    {
+      "name": "Health and Wellness Tips",
+      "frequency": 1,
+      "category_name": "Health and Wellness Tips",
+      "description": "Informational content aimed at improving health and wellness, including tips and exercises.",
+      "example_topics": [
+        "Bu Kış Soğuk Algınlığından Korunmak i\u00e7in 5 Etkili Y\u00f6ntem",
+        "V\u00fccut Direncini Artırmak i\u00e7in Evde Yapabileceğiniz 5 Egzersiz Hareketi",
+        "Sağlıklı Sa\u00e7lara Sahip Olmak i\u00e7in 7 Etkili İpucu"
+      ],
+      "target_audience": [
+        "General public",
+        "Health enthusiasts"
+      ]
+    },
+    {
+      "name": "Customer Support and Contact",
+      "frequency": 1,
+      "category_name": "Customer Support and Contact",
+      "description": "Pages providing options for contacting customer service and receiving assistance.",
+      "example_topics": [
+        "M\u00fcşteri Hizmetleri",
+        "Sizi Arayalım"
+      ],
+      "target_audience": [
+        "Current customers",
+        "Individuals seeking assistance"
+      ]
+    },
+    {
+      "name": "Career Opportunities",
+      "frequency": 1,
+      "category_name": "Career Opportunities",
+      "description": "Pages that list employment opportunities, company culture, and recruitment information.",
+      "example_topics": [
+        "Job Listings",
+        "Company Culture",
+        "Career Development"
+      ],
+      "target_audience": [
+        "Job Seekers",
+        "Professionals",
+        "HR Managers"
+      ]
+    },
+    {
+      "name": "Insurance Education and Tips",
+      "frequency": 1,
+      "category_name": "Insurance Education and Tips",
+      "description": "Articles focused on enhancing financial literacy, budget management, and providing tips for better financial health. Includes content related to insurance understanding and management.",
+      "example_topics": [
+        "Financial Literacy",
+        "Budget Management",
+        "Insurance Tips"
+      ],
+      "target_audience": [
+        "General Public",
+        "Insurance Customers",
+        "Financial Enthusiasts"
+      ]
+    },
+    {
+      "name": "Travel and Outdoor Safety",
+      "frequency": 1,
+      "category_name": "Travel and Outdoor Safety",
+      "description": "Content related to travel safety, outdoor activities, and equipment recommendations to ensure a secure and enjoyable experience.",
+      "example_topics": [
+        "Camping Safety",
+        "Travel Insurance",
+        "Outdoor Equipment"
+      ],
+      "target_audience": [
+        "Travelers",
+        "Outdoor Enthusiasts",
+        "Adventure Seekers"
+      ]
+    },
+    {
+      "name": "Health and Wellness",
+      "frequency": 1,
+      "category_name": "Health and Wellness",
+      "description": "Articles focusing on health-related topics, including managing seasonal allergies, habits affecting energy levels, and stress management techniques.",
+      "example_topics": [
+        "Allergy Management",
+        "Energy Optimization",
+        "Stress Management"
+      ],
+      "target_audience": [
+        "Health-Conscious Individuals",
+        "Families",
+        "General Public"
+      ]
+    },
+    {
+      "name": "Emergency Preparedness",
+      "frequency": 1,
+      "category_name": "Emergency Preparedness",
+      "description": "Guides and tips on preparing for emergencies, including what to pack and how to ensure readiness for unexpected situations.",
+      "example_topics": [
+        "Emergency Kit Preparation",
+        "Disaster Readiness",
+        "Safety Protocols"
+      ],
+      "target_audience": [
+        "Families",
+        "Safety Enthusiasts",
+        "General Public"
+      ]
+    },
+    {
+      "name": "Productivity and Efficiency",
+      "frequency": 1,
+      "category_name": "Productivity and Efficiency",
+      "description": "Content aimed at improving productivity through techniques like the Pomodoro Method, including time management and efficiency strategies.",
+      "example_topics": [
+        "Pomodoro Technique",
+        "Time Management",
+        "Productivity Hacks"
+      ],
+      "target_audience": [
+        "Professionals",
+        "Students",
+        "Productivity Enthusiasts"
+      ]
+    },
+    {
+      "name": "Sustainable Living",
+      "frequency": 1,
+      "category_name": "Sustainable Living",
+      "description": "Articles promoting sustainable practices, focusing on environmentally friendly transportation options like electric vehicles.",
+      "example_topics": [
+        "Electric Vehicles",
+        "Sustainable Transportation",
+        "Environmental Conservation"
+      ],
+      "target_audience": [
+        "Environmentalists",
+        "Eco-Conscious Consumers",
+        "Automobile Enthusiasts"
+      ]
+    },
+    {
+      "name": "Pet Care and Safety",
+      "frequency": 1,
+      "category_name": "Pet Care and Safety",
+      "description": "Guides on proper pet care including nutrition, hygiene, and overall well-being to ensure pets lead healthy lives.",
+      "example_topics": [
+        "Pet Nutrition",
+        "Animal Health",
+        "Pet Safety"
+      ],
+      "target_audience": [
+        "Pet Owners",
+        "Animal Lovers",
+        "Families"
+      ]
+    },
+    {
+      "name": "Home Safety and Security",
+      "frequency": 1,
+      "category_name": "Home Safety and Security",
+      "description": "Articles providing safety tips for homes, focusing on child safety and accident prevention to create a secure living environment.",
+      "example_topics": [
+        "Child Safety",
+        "Home Security",
+        "Accident Prevention"
+      ],
+      "target_audience": [
+        "Families",
+        "Homeowners",
+        "Parents"
+      ]
+    },
+    {
+      "name": "Personal Accident Insurance",
+      "frequency": 1,
+      "category_name": "Personal Accident Insurance",
+      "description": "Insurance that provides financial protection in case of accidents leading to injury or death.",
+      "example_topics": [
+        "Ferdi Kaza Sigortası"
+      ],
+      "target_audience": [
+        "Individuals",
+        "Families"
+      ]
+    },
+    {
+      "name": "Insurance Agency Information",
+      "frequency": 1,
+      "category_name": "Insurance Agency Information",
+      "description": "Information for current and prospective insurance agents, including application forms and agency locations.",
+      "example_topics": [
+        "Acentelik \u00d6n Başvuru Formu",
+        "En Yakın Acente"
+      ],
+      "target_audience": [
+        "Prospective Agents",
+        "Current Agents"
+      ]
+    },
+    {
+      "name": "Service Provider Information",
+      "frequency": 1,
+      "category_name": "Service Provider Information",
+      "description": "Details about service providers affiliated with the insurance company, such as hospitals and repair shops.",
+      "example_topics": [
+        "Anlaşmalı Hastanelerimiz",
+        "Anlaşmalı Servislerimiz"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Potential Clients"
+      ]
+    },
+    {
+      "name": "Insurance Intermediaries",
+      "frequency": 1,
+      "category_name": "Insurance Intermediaries",
+      "description": "Pages that provide information about intermediaries in the insurance sector, including brokers, agents, and other middlemen who facilitate insurance transactions.",
+      "example_topics": [
+        "insurance brokers",
+        "agents",
+        "intermediary services"
+      ],
+      "target_audience": [
+        "insurance professionals",
+        "policyholders",
+        "businesses"
+      ]
+    },
+    {
+      "name": "Website Usage and Cookies Policy",
+      "frequency": 1,
+      "category_name": "Website Usage and Cookies Policy",
+      "description": "Pages that explain the usage of cookies on the website and provide legal information regarding data collection practices.",
+      "example_topics": [
+        "cookie policy",
+        "data privacy",
+        "website terms of use"
+      ],
+      "target_audience": [
+        "general public",
+        "website users",
+        "legal professionals"
+      ]
+    },
+    {
+      "name": "Employee Information",
+      "frequency": 1,
+      "category_name": "Employee Information",
+      "description": "Content specifically targeted at employees, including internal policies, benefits, and resources.",
+      "example_topics": [
+        "Employee Benefits",
+        "Internal Policies",
+        "HR Resources"
+      ],
+      "target_audience": [
+        "Company Employees",
+        "HR Professionals"
+      ]
+    },
+    {
+      "name": "Informational",
+      "frequency": 1,
+      "category_name": "Informational",
+      "description": "General information about the website and its functionalities, aimed at helping users navigate and utilize services.",
+      "example_topics": [
+        "Site Navigation",
+        "Service Overview",
+        "Help and Support"
+      ],
+      "target_audience": [
+        "General Website Users",
+        "Potential Customers"
+      ]
+    },
+    {
+      "name": "Earthquake Insurance Overview",
+      "frequency": 1,
+      "category_name": "Earthquake Insurance Overview",
+      "description": "General information about earthquake insurance, including its purpose and scope.",
+      "example_topics": [
+        "What is DASK?",
+        "Why should you have earthquake insurance?",
+        "Differences between DASK and home insurance"
+      ],
+      "target_audience": [
+        "Homeowners",
+        "Potential insurance buyers",
+        "General public interested in earthquake preparedness"
+      ]
+    },
+    {
+      "name": "DASK Coverage",
+      "frequency": 1,
+      "category_name": "DASK Coverage",
+      "description": "Details on what is covered by DASK insurance, including specific risks and damages that are insured.",
+      "example_topics": [
+        "What does DASK cover?",
+        "DASK coverage for earthquake-related damages",
+        "DASK policy terms and conditions"
+      ],
+      "target_audience": [
+        "Homeowners",
+        "Insurance holders",
+        "Individuals seeking policy details"
+      ]
+    },
+    {
+      "name": "DASK Policy Management",
+      "frequency": 1,
+      "category_name": "DASK Policy Management",
+      "description": "Information and instructions on managing DASK policies, including application, renewal, and claim processes.",
+      "example_topics": [
+        "How to apply for DASK",
+        "DASK renewal process",
+        "DASK claim and payment procedures"
+      ],
+      "target_audience": [
+        "Current policyholders",
+        "Potential policyholders",
+        "Insurance agents"
+      ]
+    },
+    {
+      "name": "DASK Pricing and Calculation",
+      "frequency": 1,
+      "category_name": "DASK Pricing and Calculation",
+      "description": "Details on how DASK premiums are calculated and information about current pricing.",
+      "example_topics": [
+        "DASK pricing factors",
+        "DASK premium calculation",
+        "Current DASK rates"
+      ],
+      "target_audience": [
+        "Homeowners",
+        "Insurance buyers",
+        "Financial planners"
+      ]
+    },
+    {
+      "name": "DASK Compliance",
+      "frequency": 1,
+      "category_name": "DASK Compliance",
+      "description": "Information about legal requirements for DASK insurance and compliance-related topics.",
+      "example_topics": [
+        "Is DASK mandatory?",
+        "Legal requirements for DASK",
+        "Consequences of not having DASK"
+      ],
+      "target_audience": [
+        "Homeowners",
+        "Legal advisors",
+        "Real estate professionals"
+      ]
+    },
+    {
+      "name": "DASK Support and Resources",
+      "frequency": 1,
+      "category_name": "DASK Support and Resources",
+      "description": "Contact information and resources for assistance with DASK insurance.",
+      "example_topics": [
+        "DASK customer service contact",
+        "Where to get DASK assistance",
+        "DASK support resources"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Potential insurance buyers",
+        "Insurance agents"
+      ]
+    },
+    {
+      "name": "DASK FAQs and Common Concerns",
+      "frequency": 1,
+      "category_name": "DASK FAQs and Common Concerns",
+      "description": "Frequently asked questions about DASK and common concerns addressed.",
+      "example_topics": [
+        "DASK FAQs",
+        "Common concerns about DASK",
+        "Addressing misconceptions about DASK"
+      ],
+      "target_audience": [
+        "General public",
+        "Insurance buyers",
+        "Homeowners"
+      ]
+    },
+    {
+      "name": "Earthquake Preparedness",
+      "frequency": 1,
+      "category_name": "Earthquake Preparedness",
+      "description": "Information on how to prepare for earthquakes and related safety tips.",
+      "example_topics": [
+        "Earthquake safety tips",
+        "Preparing your home for an earthquake",
+        "Emergency response during an earthquake"
+      ],
+      "target_audience": [
+        "General public",
+        "Homeowners",
+        "Community organizers"
+      ]
+    },
+    {
+      "name": "Company Profile",
+      "frequency": 1,
+      "category_name": "Company Profile",
+      "description": "Pages that provide information about the insurance company, including its history, mission, and vision.",
+      "example_topics": [
+        "Company History",
+        "Mission Statement",
+        "Vision Statement",
+        "Corporate Values"
+      ],
+      "target_audience": [
+        "Potential Clients",
+        "Investors",
+        "Business Partners"
+      ]
+    },
+    {
+      "name": "Partnerships and Networks",
+      "frequency": 1,
+      "category_name": "Partnerships and Networks",
+      "description": "Information about the company's network of partners, including agents and service providers.",
+      "example_topics": [
+        "Agent Network",
+        "Partnered Service Providers",
+        "Healthcare and Auto Service Partners"
+      ],
+      "target_audience": [
+        "Insurance Agents",
+        "Service Providers",
+        "Clients"
+      ]
+    },
+    {
+      "name": "Achievements and Awards",
+      "frequency": 1,
+      "category_name": "Achievements and Awards",
+      "description": "Pages highlighting the company's achievements and awards in the insurance industry.",
+      "example_topics": [
+        "Industry Awards",
+        "Recognition for Customer Service",
+        "Social Responsibility Awards"
+      ],
+      "target_audience": [
+        "Industry Peers",
+        "Clients",
+        "Media"
+      ]
+    },
+    {
+      "name": "Legal and Regulatory",
+      "frequency": 1,
+      "category_name": "Legal and Regulatory",
+      "description": "Information about the legal and regulatory framework within which the company operates.",
+      "example_topics": [
+        "Insurance Regulations",
+        "Compliance Information",
+        "Policyholder Rights"
+      ],
+      "target_audience": [
+        "Policyholders",
+        "Legal Professionals",
+        "Regulatory Bodies"
+      ]
+    },
+    {
+      "name": "Client Testimonials and Stories",
+      "frequency": 1,
+      "category_name": "Client Testimonials and Stories",
+      "description": "Pages featuring testimonials and success stories from clients or partners.",
+      "example_topics": [
+        "Client Testimonials",
+        "Success Stories",
+        "Case Studies"
+      ],
+      "target_audience": [
+        "Potential Clients",
+        "Business Partners",
+        "General Public"
+      ]
+    },
+    {
+      "name": "Media and Promotions",
+      "frequency": 1,
+      "category_name": "Media and Promotions",
+      "description": "Content that includes media appearances, promotional videos, and advertising campaigns.",
+      "example_topics": [
+        "Promotional Videos",
+        "Advertising Campaigns",
+        "Media Appearances"
+      ],
+      "target_audience": [
+        "General Public",
+        "Marketing Professionals",
+        "Potential Clients"
+      ]
+    },
+    {
+      "name": "Trade Credit Insurance",
+      "frequency": 1,
+      "category_name": "Trade Credit Insurance",
+      "description": "Content related to protecting businesses from customer insolvency and ensuring cash flow through trade credit insurance services.",
+      "example_topics": [
+        "Trade Credit Insurance Overview",
+        "Protect Receivables",
+        "Credit Risk Management"
+      ],
+      "target_audience": [
+        "Business Owners",
+        "CFOs",
+        "Financial Directors",
+        "Large Companies",
+        "SMEs",
+        "MNCs"
+      ]
+    },
+    {
+      "name": "Financial Health Assessment",
+      "frequency": 1,
+      "category_name": "Financial Health Assessment",
+      "description": "Information and tools for assessing the financial health of customers and business partners.",
+      "example_topics": [
+        "Customer Financial Health Check",
+        "Risk Assessment Tools"
+      ],
+      "target_audience": [
+        "Business Owners",
+        "Financial Analysts",
+        "Risk Managers"
+      ]
+    },
+    {
+      "name": "Global Economic Insights",
+      "frequency": 1,
+      "category_name": "Global Economic Insights",
+      "description": "Reports and articles detailing global economic trends, business risks, and insolvency projections.",
+      "example_topics": [
+        "Global Insolvency Outlook",
+        "Economic Trends",
+        "Business Risks"
+      ],
+      "target_audience": [
+        "Economists",
+        "Business Strategists",
+        "Financial Analysts",
+        "Policy Makers"
+      ]
+    },
+    {
+      "name": "Region-Specific Insights",
+      "frequency": 1,
+      "category_name": "Region-Specific Insights",
+      "description": "Surveys and reports focused on specific regions such as APAC, addressing local business performance, and financial behavior.",
+      "example_topics": [
+        "APAC CFO Survey",
+        "Regional Business Insights"
+      ],
+      "target_audience": [
+        "Regional Business Leaders",
+        "CFOs",
+        "Financial Analysts"
+      ]
+    },
+    {
+      "name": "Credit Risk Management Solutions",
+      "frequency": 1,
+      "category_name": "Credit Risk Management Solutions",
+      "description": "Information about solutions for managing credit risks, including insurance and bonding services.",
+      "example_topics": [
+        "Credit Insurance Solutions",
+        "Bonding Services",
+        "Risk Management"
+      ],
+      "target_audience": [
+        "Risk Managers",
+        "Business Owners",
+        "Financial Directors"
+      ]
+    },
+    {
+      "name": "Company Information and Contact",
+      "frequency": 1,
+      "category_name": "Company Information and Contact",
+      "description": "Details about Allianz Trade's operations, expertise, and ways to connect with their services.",
+      "example_topics": [
+        "Company Overview",
+        "Contact Information",
+        "Client Testimonials"
+      ],
+      "target_audience": [
+        "Potential Clients",
+        "Business Partners",
+        "General Public"
+      ]
+    },
+    {
+      "name": "Solutions by Company Size",
+      "frequency": 1,
+      "category_name": "Solutions by Company Size",
+      "description": "Tailored insurance solutions categorized by company size, including SMEs, Large Companies, and MNCs.",
+      "example_topics": [
+        "Solutions for SMEs",
+        "Solutions for Large Companies",
+        "Solutions for MNCs"
+      ],
+      "target_audience": [
+        "Small Business Owners",
+        "Corporate Executives",
+        "Global Enterprises"
+      ]
+    },
+    {
+      "name": "Claims Management",
+      "frequency": 1,
+      "category_name": "Claims Management",
+      "description": "Information and resources for handling insurance claims, including damage notification and tracking.",
+      "example_topics": [
+        "Damage Transactions",
+        "Claim Management",
+        "Contracted Services"
+      ],
+      "target_audience": [
+        "Current policyholders",
+        "Individuals needing assistance with claims"
+      ]
+    },
+    {
+      "name": "Digital Services",
+      "frequency": 1,
+      "category_name": "Digital Services",
+      "description": "Digital platforms and services offered by the insurance company for easy access and transactions.",
+      "example_topics": [
+        "Online Transactions",
+        "Mobile Application",
+        "Website Services"
+      ],
+      "target_audience": [
+        "Tech-savvy customers",
+        "Individuals preferring online service access"
+      ]
+    },
+    {
+      "name": "Educational Blog",
+      "frequency": 1,
+      "category_name": "Educational Blog",
+      "description": "Blog posts providing educational content related to insurance, sustainability, technology, and travel.",
+      "example_topics": [
+        "Traffic Safety Systems",
+        "Sustainability for Kids",
+        "AI in CV Preparation",
+        "Travel Exit Fees"
+      ],
+      "target_audience": [
+        "General public",
+        "Individuals interested in educational content",
+        "Parents and educators"
+      ]
+    }
+  ]
+}
