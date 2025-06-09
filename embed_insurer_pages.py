@@ -11,6 +11,9 @@ from qdrant_client.http import models
 import numpy as np
 from typing import List, Dict, Any
 import hashlib
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+import tiktoken
+
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -19,8 +22,9 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 CHUNK_SIZE = 8000  # bytes
 CHUNK_OVERLAP = 2000  # bytes
 BATCH_SIZE = 32  # Number of documents to process in one batch
-COLLECTION_NAME = "insurer_pages"
+COLLECTION_NAME = "insurer_pages_c4ai"
 EMBEDDING_DIM = 3072  # Dimension for Azure text-embedding-3-large model
+C4AI = True
 
 def get_db_connection():
     """Create and return a database connection."""
@@ -71,42 +75,20 @@ def create_qdrant_collection(client: QdrantClient):
     )
     logging.info(f"Created collection {COLLECTION_NAME} in Qdrant")
 
-def chunk_text(text: str) -> List[str]:
-    """Split text into overlapping chunks of specified size."""
-    if not text:
-        return []
-    
-    # Convert to bytes for accurate size measurement
-    text_bytes = text.encode('utf-8')
-    chunks = []
-    
-    if len(text_bytes) <= CHUNK_SIZE:
-        return [text]
-    
-    start = 0
-    while start < len(text_bytes):
-        # Get chunk of CHUNK_SIZE bytes
-        chunk_bytes = text_bytes[start:start + CHUNK_SIZE]
-        
-        # Convert back to string, ensuring we don't cut in the middle of a character
-        chunk = chunk_bytes.decode('utf-8', errors='ignore')
-        
-        # If this is not the first chunk, try to find a good split point
-        if start > 0:
-            # Look for the last newline or space in the overlap region
-            overlap_text = chunk[:CHUNK_OVERLAP]
-            split_point = max(
-                overlap_text.rfind('\n'),
-                overlap_text.rfind(' '),
-                CHUNK_OVERLAP // 2  # Fallback to middle of overlap if no good split point
-            )
-            if split_point > 0:
-                chunk = chunk[split_point:].lstrip()
-        
-        chunks.append(chunk)
-        start += CHUNK_SIZE - CHUNK_OVERLAP
-    
-    return chunks
+
+def generateChunks(text: str):
+  # Initialize tiktoken encoder for the embedding model
+  encoder = tiktoken.encoding_for_model("text-embedding-3-large");
+
+  textSplitter = RecursiveCharacterTextSplitter(
+    chunk_size= CHUNK_SIZE, # Maximum tokens per chunk
+    chunk_overlap= CHUNK_OVERLAP, # 20% overlap to preserve context
+    separators= ["\n\n", "\n", " ", ""], # Logical split points
+    length_function= lambda text: len(encoder.encode(text))
+  )
+  
+  return textSplitter.split_text(text)
+
 
 def generate_chunk_id(page_url: str, chunk_index: int) -> str:
     """Generate a unique ID for a chunk."""
@@ -145,7 +127,6 @@ async def get_embedding(text: str, session: aiohttp.ClientSession) -> List[float
         else:
             logging.error(f"Error getting embedding: {e}")
         raise
-
 async def process_documents():
     """Main function to process documents and store embeddings."""
     load_dotenv()
@@ -164,12 +145,20 @@ async def process_documents():
         
         with db_conn.cursor() as cur:
             # Get all documents that haven't been processed yet
-            cur.execute("""
-                SELECT id, page_url, markdown 
-                FROM th.insurer_page_content 
-                WHERE markdown IS NOT NULL
-                ORDER BY id;
-            """)
+            if C4AI:
+                cur.execute("""
+                    SELECT id, insurer_name, page_url, markdown 
+                    FROM th.insurer_pages_c4ai 
+                    WHERE markdown IS NOT NULL
+                    ORDER BY id;
+                """)
+            else:
+                cur.execute("""
+                    SELECT id, insurer_name, page_url, markdown 
+                    FROM th.insurer_page_content 
+                    WHERE markdown IS NOT NULL
+                    ORDER BY id;
+                """)
             
             while True:
                 batch = cur.fetchmany(BATCH_SIZE)
@@ -178,12 +167,12 @@ async def process_documents():
                 
                 points_to_upsert = []
                 
-                for doc_id, page_url, markdown in batch:
+                for doc_id, insurer_name, page_url, markdown in batch:
                     if not markdown:
                         continue
                     
                     # Split document into chunks if needed
-                    chunks = chunk_text(markdown)
+                    chunks = generateChunks(markdown)
                     
                     for chunk_idx, chunk in enumerate(chunks):
                         try:
@@ -199,7 +188,8 @@ async def process_documents():
                                     "page_url": page_url,
                                     "chunk_index": chunk_idx,
                                     "chunk_text": chunk,
-                                    "total_chunks": len(chunks)
+                                    "total_chunks": len(chunks),
+                                    "insurer_name": insurer_name
                                 }
                             )
                             points_to_upsert.append(point)
