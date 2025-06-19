@@ -82,7 +82,6 @@ async def crawl_insurer(crawler, insurer_name, root_url, crawl_options):
             verbose=True
         )
         result = await crawler.arun(root_url, config=config)
-        #print(result.links["internal"][0])
         urls = []
         if hasattr(result, 'links'):
             urls = result.links["internal"]
